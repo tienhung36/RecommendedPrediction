@@ -1,0 +1,1438 @@
+,Aircraft,Cabin Staff Service,Date Flown,Food & Beverages,Ground Service,Inflight Entertainment,Recommended,Route,Seat Comfort,Seat Type,Type Of Traveller,Value For Money,Wifi & Connectivity
+0,,3,April 2023,3.0,1,3.0,no,New York to London,4,Economy Class,Business,1,4.0
+1,Boeing 787,2,April 2023,1.0,3,5.0,no,Singapore to London,4,Business Class,Couple Leisure,1,1.0
+2,Boeing 777,2,April 2023,1.0,3,1.0,no,Seattle to Zagreb via London,3,Premium Economy,Couple Leisure,2,1.0
+3,Boeing 777,1,April 2023,2.0,1,3.0,no,"Bangalore to Toronto via London,",2,Premium Economy,Family Leisure,1,
+4,Dreamliner,1,February 2023,1.0,1,3.0,no,London to Denver,2,Economy Class,Family Leisure,2,1.0
+5,A350,5,April 2023,4.0,4,3.0,yes,London to Hong Kong,4,Premium Economy,Solo Leisure,4,
+6,,4,April 2023,1.0,1,3.0,no,Brussels to Los Angeles via London Heathrow,1,Economy Class,Couple Leisure,1,1.0
+7,,5,March 2023,2.0,4,3.0,no,London to Denver,2,Economy Class,Family Leisure,1,1.0
+8,,1,April 2023,1.0,2,1.0,no,Hong Kong to London,2,Economy Class,Solo Leisure,2,1.0
+9,A320,3,April 2023,4.0,3,,no,Heathrow to Malaga,3,Business Class,Business,2,1.0
+10,,1,April 2023,1.0,1,1.0,no,Dublin to London,1,Economy Class,Business,1,1.0
+11,A350,1,April 2023,1.0,4,4.0,no,Las Vegas to London,1,Economy Class,Couple Leisure,1,1.0
+12,Boeing 777,3,April 2023,2.0,2,3.0,no,London to Atlanta,4,Business Class,Couple Leisure,3,3.0
+13,Boeing 787,2,April 2023,3.0,4,3.0,no,London to Hong Kong,2,Premium Economy,Business,3,5.0
+14,,1,April 2023,5.0,1,5.0,no,Mumbai to Chicago via London,4,Economy Class,Family Leisure,1,1.0
+15,Boeing 777,2,April 2023,2.0,3,2.0,no,London to New York,3,Business Class,Business,2,1.0
+16,Boeing 777-200,5,March 2023,3.0,4,5.0,yes,Mumbai to London,4,Economy Class,Solo Leisure,5,5.0
+17,,3,March 2023,3.0,3,1.0,no,Barcelona to London,3,Economy Class,Business,1,1.0
+18,,1,March 2023,3.0,1,4.0,yes,Miami to Munich via London,3,Economy Class,Couple Leisure,1,2.0
+19,A321Neo,4,March 2023,1.0,4,1.0,no,Cairo to London,1,Economy Class,Couple Leisure,2,1.0
+20,Boeing 777,4,March 2023,2.0,3,3.0,yes,Mumbai to Nassau via London,4,Premium Economy,Solo Leisure,3,1.0
+21,A380,5,March 2023,4.0,1,4.0,no,Johannesburg to London,4,First Class,Couple Leisure,2,4.0
+22,,2,March 2023,1.0,1,1.0,no,Zagreb to London Heathrow,3,Economy Class,Solo Leisure,2,1.0
+23,,1,December 2022,1.0,1,1.0,no,Dublin to Orlando via Heathrow,1,Economy Class,Solo Leisure,1,1.0
+24,,4,December 2022,4.0,1,4.0,no,London to Dubai,4,Business Class,Business,1,4.0
+25,,1,March 2023,1.0,1,1.0,no,Heathrow to Glasgow,1,Economy Class,Business,1,1.0
+26,,2,March 2023,1.0,3,1.0,no,London to Los Angeles,1,Economy Class,Solo Leisure,1,1.0
+27,Boeing 777 / A320,5,March 2023,5.0,5,5.0,yes,New York to Istanbul via London,5,Economy Class,Solo Leisure,5,
+28,A321neo,2,January 2023,1.0,3,1.0,no,London to Cairo,1,Business Class,Business,1,
+29,Boeing 787,5,February 2023,5.0,5,4.0,yes,London Singapore,3,Economy Class,Solo Leisure,4,
+30,A380,3,February 2023,2.0,4,3.0,yes,London to Dubai,2,Business Class,Business,3,
+31,,4,February 2023,1.0,1,1.0,no,London to Lyon,1,Economy Class,Family Leisure,1,1.0
+32,Boeing 787-9,5,February 2023,4.0,5,4.0,yes,Mexico City to London,5,Business Class,Couple Leisure,5,
+33,A320,5,January 2023,4.0,5,,yes,London Heathrow to Glasgow,5,Economy Class,Business,5,5.0
+34,Boeing 777-300,4,January 2023,1.0,4,1.0,no,London to Vancouver,4,Premium Economy,Solo Leisure,1,
+35,A380,5,January 2023,4.0,5,3.0,yes,Heathrow to Johannesburg,4,First Class,Solo Leisure,4,3.0
+36,Boeing 777-200,5,January 2023,5.0,4,4.0,yes,Cape Town to London,4,Business Class,Couple Leisure,4,4.0
+37,Boeing 777-300ER,5,January 2023,5.0,5,5.0,yes,London to Male,5,Business Class,Couple Leisure,4,2.0
+38,Boeing 787-8,5,December 2022,4.0,4,3.0,yes,London to Tel Aviv,4,Economy Class,Family Leisure,5,4.0
+39,Boeing 777-200,5,January 2023,5.0,4,5.0,yes,London Heathrow to Cape Town,3,Business Class,Couple Leisure,4,5.0
+40,,4,April 2022,1.0,3,1.0,no,London Heathrow to Athens Greece,3,Premium Economy,Solo Leisure,1,1.0
+41,Boeing 777-200,1,January 2023,1.0,1,3.0,no,Atlanta to London,1,Economy Class,Family Leisure,2,
+42,A380,2,December 2022,3.0,3,4.0,no,London to Chicago,3,Economy Class,Family Leisure,2,
+43,"A320, A380",2,January 2023,1.0,1,1.0,no,Vienna to Los Angeles via London Heathrow,1,Business Class,Family Leisure,1,1.0
+44,,5,January 2023,2.0,2,1.0,no,London to San francisco,2,Business Class,Business,1,1.0
+45,A380,3,December 2022,1.0,5,1.0,no,Doha to London,5,Economy Class,Business,4,
+46,Boeing 777,4,December 2022,4.0,4,2.0,no,London to Barbados,3,Business Class,Couple Leisure,3,
+47,Boeing 777,4,December 2022,4.0,2,2.0,no,London Gatwick to Cape Town,3,Premium Economy,Solo Leisure,3,
+48,A350,3,December 2022,2.0,1,2.0,no,Cape Town to London,4,Business Class,Solo Leisure,2,
+49,Boeing 777-300,2,December 2022,1.0,3,1.0,no,London to Male,2,First Class,Couple Leisure,1,1.0
+50,A321,4,December 2022,5.0,1,,yes,London to Rome,4,Business Class,Business,4,4.0
+51,Boeing 777,1,December 2022,1.0,1,1.0,no,Barbados to London Heathrow,1,Business Class,Couple Leisure,1,
+52,Boeing 777-200,5,November 2022,4.0,3,4.0,yes,Doha to  Gatwick,2,Economy Class,Solo Leisure,5,
+53,A320,5,December 2022,3.0,5,3.0,no,Glasgow to London,5,Business Class,Business,3,3.0
+54,Boeing 787-9,1,December 2022,1.0,1,3.0,no,Denver to London,1,Economy Class,Business,1,
+55,A380,1,November 2022,2.0,3,2.0,no,San Francisco to London,2,Economy Class,Solo Leisure,2,1.0
+56,Boeing 787 / A320,4,January 2022,4.0,4,4.0,yes,Montreal to Edinburgh via London Heathrow,4,Economy Class,Solo Leisure,4,
+57,,1,August 2022,1.0,1,1.0,no,Dusseldorf to London via Los Angeles,1,Economy Class,Solo Leisure,1,1.0
+58,Boeing 777,2,November 2022,1.0,1,4.0,no,London to Cape Town,4,Business Class,Solo Leisure,1,
+59,,5,November 2022,2.0,2,2.0,no,Milan to Dallas via London,2,Economy Class,Solo Leisure,1,2.0
+60,Boeing 787-8,3,November 2022,3.0,2,1.0,yes,Baltimore to London Heathrow,1,Economy Class,Solo Leisure,3,
+61,,3,October 2022,3.0,1,2.0,no,Dubai to Belfast via London,3,Business Class,Couple Leisure,1,2.0
+62,Boeing 777,1,October 2022,1.0,1,2.0,no,London Heathrow to Nairobi,3,Business Class,Solo Leisure,1,1.0
+63,A350-1000,4,October 2022,5.0,3,5.0,yes,London to Los Angeles,5,Business Class,Solo Leisure,5,5.0
+64,A320,5,October 2022,5.0,4,,yes,Copenhagen to Heathrow,3,Business Class,Solo Leisure,5,5.0
+65,A320,2,October 2022,1.0,2,1.0,no,Larnaca to London,1,Economy Class,Family Leisure,2,
+66,Boeing 787-10,4,October 2022,4.0,5,5.0,yes,Atlanta to London,5,Business Class,Couple Leisure,4,5.0
+67,A380,1,September 2022,1.0,3,4.0,no,Madrid to San Francisco via London,3,Business Class,Solo Leisure,1,
+68,A380,5,October 2022,5.0,2,3.0,yes,London to Washington,3,Economy Class,Solo Leisure,5,
+69,A380,1,October 2022,3.0,1,3.0,no,London to San Francisco,1,Economy Class,Couple Leisure,1,5.0
+70,Boeing 777-300,4,October 2022,3.0,4,4.0,yes,London to Los Angeles,3,Economy Class,Couple Leisure,4,
+71,Boeing 777,5,October 2022,3.0,4,2.0,yes,Miami to London Heathrow,5,Business Class,Couple Leisure,3,
+72,A380,4,October 2022,4.0,4,2.0,yes,Dubai to London,4,Business Class,Solo Leisure,3,2.0
+73,A320neo,1,October 2022,1.0,4,,no,London to Cairo,1,Economy Class,Couple Leisure,1,1.0
+74,Boeing 777,5,October 2022,5.0,5,5.0,yes,Orlando to London Gatwick,5,Business Class,Solo Leisure,4,4.0
+75,A321neo,4,October 2022,1.0,3,,no,London to Cairo,2,Economy Class,Business,1,2.0
+76,A380,4,September 2022,2.0,4,4.0,yes,Dallas to London,2,Economy Class,Couple Leisure,3,
+77,A320-200,3,September 2022,2.0,3,1.0,no,Istanbul to London Heathrow,1,Business Class,Solo Leisure,2,
+78,Boeing 777-200,4,September 2022,4.0,5,4.0,yes,London Heathrow to New York JFK,5,Business Class,Solo Leisure,5,
+79,,5,September 2022,5.0,5,5.0,yes,Heathrow to Mexico City,5,Premium Economy,Solo Leisure,5,5.0
+80,,5,September 2022,5.0,5,5.0,yes,London to Tampa,5,Economy Class,Solo Leisure,5,5.0
+81,,3,September 2022,2.0,4,5.0,yes,Sydney to London via Singapore,1,Economy Class,Solo Leisure,2,5.0
+82,,1,September 2022,2.0,1,1.0,no,London to Manchester,4,Economy Class,Couple Leisure,1,1.0
+83,,5,September 2022,5.0,4,1.0,yes,London Gatwick to Malaga,3,Business Class,Couple Leisure,3,1.0
+84,Boeing 787,5,August 2022,5.0,3,5.0,yes,Tel Aviv to London,5,Economy Class,Couple Leisure,4,
+85,,5,August 2022,5.0,5,5.0,yes,Boston to Dublin via London,5,Economy Class,Couple Leisure,5,1.0
+86,,5,July 2022,5.0,5,5.0,yes,London to New York,5,Economy Class,Couple Leisure,3,5.0
+87,Boeing 777,1,August 2022,1.0,4,3.0,no,Cape Town to London Heathrow,2,Economy Class,Family Leisure,3,
+88,A320,1,June 2022,1.0,1,1.0,no,London to Marrakesh,1,Business Class,Solo Leisure,1,1.0
+89,A380,5,July 2022,4.0,4,4.0,yes,San Francisco to London,4,Business Class,Family Leisure,4,5.0
+90,A350-1000,2,July 2022,3.0,3,1.0,yes,Sao Paulo to Heathrow,1,Economy Class,Couple Leisure,3,
+91,A350,4,July 2022,4.0,5,5.0,yes,London to Los Angeles,4,Business Class,Family Leisure,4,5.0
+92,,1,July 2022,1.0,1,1.0,no,Nairobi to New York via London,1,Premium Economy,Solo Leisure,1,1.0
+93,"A320, Boeing 787",3,July 2022,3.0,1,2.0,no,Venice to Baltimore via London Heathrow,3,Premium Economy,Solo Leisure,2,1.0
+94,A350,3,June 2022,3.0,2,2.0,no,London Heathrow to Johannesburg,1,Economy Class,Couple Leisure,4,
+95,,1,July 2021,1.0,1,1.0,no,London to Paris,1,Economy Class,Couple Leisure,1,1.0
+96,,4,June 2022,4.0,3,2.0,no,Miami to Paris,3,Business Class,Business,1,1.0
+97,,2,June 2022,1.0,1,1.0,no,Edmonton to Cairo,2,Economy Class,Family Leisure,2,1.0
+98,,2,June 2022,2.0,2,2.0,no,Amsterdam to Montreal via London,2,Premium Economy,Couple Leisure,2,2.0
+99,A350,4,June 2022,1.0,3,2.0,no,London to Johannesburg,1,Economy Class,Business,2,1.0
+100,A320,4,June 2022,1.0,2,1.0,no,Paris CDG to London Heathrow,1,Economy Class,Couple Leisure,1,1.0
+101,A320,2,June 2022,2.0,2,,no,London to Malaga,3,Business Class,Business,3,3.0
+102,,4,June 2022,4.0,1,3.0,no,Boston to Edinburgh via Heathrow,1,Economy Class,Couple Leisure,1,1.0
+103,A380,2,June 2022,1.0,2,3.0,no,Vancouver to London,1,Economy Class,Solo Leisure,3,
+104,Boeing 777-200,4,June 2022,3.0,2,5.0,yes,London to san Francisco,4,Business Class,Couple Leisure,4,4.0
+105,Boeing 777,3,June 2022,2.0,3,4.0,no,Cancun to London Gatwick,4,Premium Economy,Couple Leisure,3,
+106,,1,June 2022,1.0,1,1.0,no,Dallas Fort-Worth to Toulouse via London,1,Business Class,Family Leisure,1,1.0
+107,A380,5,June 2022,3.0,2,4.0,yes,Vancouver to London,4,Business Class,Solo Leisure,5,4.0
+108,Boeing 777-300ER,5,May 2022,5.0,5,,yes,London to Boston,4,Economy Class,Business,3,5.0
+109,Boeing 777-300,5,May 2022,1.0,3,3.0,no,Bridgetown to London,1,Economy Class,Family Leisure,1,
+110,A320,2,May 2022,1.0,1,1.0,no,London Heathrow to Malaga,3,Economy Class,Solo Leisure,3,1.0
+111,,2,May 2022,2.0,1,2.0,no,Basel to Johannesburg via London,1,Economy Class,Solo Leisure,2,1.0
+112,A320,4,May 2022,3.0,3,,no,Athens to London,2,Business Class,Couple Leisure,2,2.0
+113,Boeing 787,4,April 2022,4.0,4,3.0,yes,London to Mexico City,5,Premium Economy,Solo Leisure,4,
+114,,4,May 2022,4.0,1,4.0,no,Glasgow to New York,3,Economy Class,Business,1,4.0
+115,Boeing 777,5,May 2022,5.0,5,5.0,yes,Dubai to Milan Malpensa via London,5,Premium Economy,Solo Leisure,5,3.0
+116,,5,April 2022,5.0,5,5.0,yes,São Paulo to Milan via London,5,Economy Class,Solo Leisure,5,5.0
+117,A320,1,March 2022,1.0,1,1.0,no,Pisa to London Heathrow,1,Business Class,Solo Leisure,1,1.0
+118,A320,3,April 2022,1.0,1,,no,Gothenburg to Manchester via London,3,Economy Class,Couple Leisure,1,1.0
+119,Boeing 787,5,March 2022,5.0,3,4.0,yes,Chicago to London,5,Business Class,Solo Leisure,4,
+120,A380,5,April 2022,4.0,4,3.0,yes,Glasgow to Washington via London,4,Economy Class,Family Leisure,3,3.0
+121,A320neo,4,April 2022,2.0,2,,no,Malaga to London,2,Business Class,Business,2,1.0
+122,,5,April 2022,4.0,5,5.0,yes,Nice to Dallas via London,5,Economy Class,Couple Leisure,4,5.0
+123,A320 / Boeing 777,2,April 2022,2.0,2,1.0,no,Phoenix to Paris via London,3,Business Class,Couple Leisure,2,
+124,Boeing 777-200,5,April 2022,5.0,4,5.0,yes,Phoenix to London Heathrow,5,Business Class,Business,5,3.0
+125,Boeing 777-200ER,4,March 2022,4.0,2,4.0,yes,Vancouver to London,4,Business Class,Solo Leisure,5,5.0
+126,Boeing 777,3,March 2022,3.0,4,1.0,yes,Barbados to Heathrow,2,Business Class,Couple Leisure,3,
+127,A320,5,April 2022,4.0,1,,no,Geneva to London,4,Business Class,Business,4,3.0
+128,,1,April 2022,1.0,1,1.0,no,London to Singapore,1,Economy Class,Solo Leisure,1,1.0
+129,Boeing 777,5,March 2022,4.0,4,2.0,yes,London to Barbados,4,Business Class,Couple Leisure,4,
+130,A320,1,March 2022,2.0,1,1.0,no,London to Malaga,2,Business Class,Business,1,
+131,Boeing 777-200,1,March 2022,1.0,3,2.0,no,Cape Town to London,2,Business Class,Couple Leisure,2,
+132,Boeing 787-9,1,March 2022,1.0,1,1.0,no,London to Austin,4,Economy Class,Couple Leisure,3,
+133,Boeing 787-900,1,March 2022,1.0,2,4.0,no,Singapore to London,5,First Class,Solo Leisure,2,
+134,A350,4,March 2022,3.0,3,1.0,no,Dublin to Dubai via London,3,Economy Class,Family Leisure,3,
+135,A321-neo,5,August 2021,2.0,1,,no,London Heathrow to Sofia,3,Business Class,Business,2,1.0
+136,Boeing 777,3,February 2022,2.0,2,3.0,yes,Cape Town to Glasgow via London,3,Premium Economy,Solo Leisure,3,
+137,,4,March 2022,1.0,2,1.0,no,Bangalore to London,3,Business Class,Business,1,2.0
+138,Boeing 777-200,3,March 2022,2.0,3,1.0,no,London to Cape Town,3,Business Class,Couple Leisure,3,
+139,A350,5,February 2022,5.0,4,5.0,yes,Vancouver to London,4,Premium Economy,Solo Leisure,5,4.0
+140,A320,3,February 2022,2.0,3,,no,London to Malaga,3,Business Class,Business,2,3.0
+141,Boeing 787-9,5,February 2022,4.0,5,4.0,yes,Washington to London,4,Business Class,Family Leisure,4,4.0
+142,,2,January 2022,1.0,1,1.0,no,Accra to London,1,Economy Class,Couple Leisure,1,1.0
+143,Boeing 787-9,5,February 2022,5.0,5,4.0,yes,London to Washington,4,Business Class,Family Leisure,4,5.0
+144,Boeing 787-9,5,January 2022,4.0,5,4.0,yes,Atlanta to Belfast via Heathrow,4,Business Class,Couple Leisure,5,
+145,Boeing 777,4,January 2022,2.0,3,4.0,yes,Cape Town to London Heathrow,3,Business Class,Couple Leisure,3,
+146,Boeing 777,4,January 2022,3.0,3,1.0,no,London Heathrow to Orlando,2,Business Class,Couple Leisure,3,
+147,A380,1,January 2022,1.0,1,2.0,no,London Heathrow to Dubai,2,Economy Class,Couple Leisure,1,
+148,Boeing 777,3,December 2021,2.0,4,5.0,yes,London to Cape Town,3,Business Class,Couple Leisure,3,1.0
+149,A320-200,5,December 2021,4.0,5,,yes,Edinburgh to London,4,Business Class,Solo Leisure,4,5.0
+150,A380,4,December 2021,1.0,2,1.0,no,London Heathrow to Los Angeles,1,Economy Class,Family Leisure,1,
+151,Boeing 787,5,November 2021,5.0,4,3.0,yes,London to Chicago,4,First Class,Couple Leisure,4,5.0
+152,A320,2,December 2021,3.0,1,1.0,no,London to Istanbul,1,Business Class,Solo Leisure,2,1.0
+153,Boeing 777,2,December 2021,3.0,1,4.0,yes,Dubai to London Heaathrow,4,Business Class,Couple Leisure,4,3.0
+154,Boeing 777,5,December 2021,3.0,5,2.0,no,London Gatwick to Cancun,1,Business Class,Couple Leisure,3,
+155,,2,August 2021,2.0,2,3.0,no,Kingston to London,1,Business Class,Business,1,1.0
+156,,1,January 2021,1.0,1,1.0,no,London to Delhi,1,Business Class,Family Leisure,1,1.0
+157,,2,November 2021,2.0,1,2.0,no,London to Chicago,1,Economy Class,Solo Leisure,1,2.0
+158,Boeing 777,2,October 2021,2.0,1,2.0,no,Manchester to Nassau via London,2,Economy Class,Couple Leisure,1,1.0
+159,A321,4,October 2021,2.0,3,,yes,Larnaca to London Heathrow,2,Business Class,Family Leisure,3,3.0
+160,Boeing 787,5,October 2021,5.0,3,4.0,yes,Madrid to London,4,Premium Economy,Couple Leisure,5,
+161,A321,5,October 2021,3.0,4,2.0,yes,London to Larnaca,3,Business Class,Family Leisure,4,2.0
+162,,5,October 2021,5.0,5,5.0,yes,Male to London,5,Economy Class,Couple Leisure,5,5.0
+163,A350,5,October 2021,5.0,5,5.0,yes,London to Toronto,5,Business Class,Business,5,5.0
+164,,4,September 2021,4.0,4,3.0,no,London Heathrow to Athens Greece,2,Business Class,Solo Leisure,1,4.0
+165,A321,4,October 2021,3.0,4,,yes,Larnaca to London Heathrow,3,Business Class,Couple Leisure,4,3.0
+166,A320,1,August 2021,1.0,1,,no,Manchester to Aberdeen via Heathrow,1,Economy Class,Couple Leisure,1,1.0
+167,,1,September 2021,1.0,3,2.0,no,London to New York,3,Business Class,Business,4,2.0
+168,A320,3,September 2021,3.0,3,,yes,London Heathrow to Larnaca,3,Business Class,Couple Leisure,3,2.0
+169,A320,5,September 2021,4.0,3,,yes,London to Lisbon,3,Business Class,Family Leisure,4,4.0
+170,Boeing 787-8,4,August 2021,1.0,3,1.0,yes,London to Moscow Domodedovo,5,Economy Class,Solo Leisure,2,1.0
+171,A320,5,August 2021,4.0,4,4.0,yes,London to Corfu,4,Economy Class,Family Leisure,4,4.0
+172,Boeing 777-200,5,July 2021,5.0,4,4.0,yes,Cancun to Gatwick,4,Business Class,Family Leisure,4,4.0
+173,Boeing 777-200,5,July 2021,4.0,4,4.0,yes,Gatwick to Cancun,5,Business Class,Family Leisure,5,4.0
+174,Boeing 787,2,June 2021,3.0,3,3.0,no,London to Mexico City,1,Business Class,Solo Leisure,1,1.0
+175,A321NEO,5,May 2021,4.0,4,3.0,yes,Aberdeen to London Heathrow,4,Economy Class,Solo Leisure,4,5.0
+176,,5,December 2020,5.0,5,5.0,no,Sofia to London Heathrow,5,Economy Class,Solo Leisure,3,5.0
+177,Boeing 787-9,5,January 2021,1.0,3,2.0,no,Mexico City to London Heathrow,2,First Class,Business,3,1.0
+178,A350,1,July 2020,1.0,5,5.0,no,London Heathrow to Dubai,4,Premium Economy,Solo Leisure,5,4.0
+179,A321,5,December 2020,3.0,4,,yes,London to Tenerife,3,Business Class,Solo Leisure,4,5.0
+180,Boeing 747,1,December 2020,1.0,1,1.0,no,London Heathrow to Lahore,1,Economy Class,Family Leisure,1,1.0
+181,,5,November 2019,5.0,5,5.0,yes,Munich to London,5,Economy Class,Couple Leisure,5,5.0
+182,,5,October 2020,1.0,5,5.0,no,London to Bangalore,5,Economy Class,Family Leisure,2,3.0
+183,A320neo,5,September 2020,5.0,4,5.0,yes,Warsaw to London-Heathrow,5,Business Class,Solo Leisure,5,5.0
+184,A350,5,February 2020,5.0,5,5.0,yes,London Heathrow to Toronto,5,Business Class,Couple Leisure,5,
+185,Boeing 747-400,5,February 2020,5.0,5,2.0,yes,Las Vegas to London Heathrow,5,Business Class,Couple Leisure,5,
+186,,1,March 2020,1.0,1,2.0,no,Sydney to London via Singapore,1,Economy Class,Solo Leisure,1,1.0
+187,,3,March 2020,2.0,1,1.0,no,Johannesburg to London,2,Economy Class,Business,2,1.0
+188,Boeing 747-400,1,March 2020,1.0,1,1.0,no,Chicago to London Heathrow,1,Business Class,Business,1,1.0
+189,Boeing 747-400,1,February 2020,1.0,1,1.0,no,London to New York JFK,1,Business Class,Business,1,1.0
+190,Boeing 787,5,January 2020,4.0,4,5.0,yes,London to Beijing,3,Economy Class,Solo Leisure,4,
+191,A380,5,January 2020,5.0,5,3.0,yes,Hong Kong to London,5,Economy Class,Family Leisure,5,
+192,Boeing 777-200,5,March 2020,5.0,5,4.0,yes,Mumbai to London,4,Economy Class,Couple Leisure,5,
+193,Boeing 777-200,5,February 2020,5.0,2,4.0,yes,London to Delhi,4,Economy Class,Couple Leisure,4,
+194,Boeing 747-400,5,February 2020,5.0,4,5.0,yes,Vancouver to London,4,Premium Economy,Solo Leisure,5,
+195,Boeing 777,5,February 2020,1.0,2,3.0,no,London Heathrow to Nairobi,3,First Class,Solo Leisure,3,
+196,Boeing 787,3,February 2020,1.0,1,1.0,no,Rio de Janeiro to London,1,Economy Class,Solo Leisure,2,
+197,Boeing 747-400,4,February 2020,3.0,4,1.0,no,Las Vegas to Paris via London,1,Business Class,Couple Leisure,1,
+198,A321,4,October 2019,4.0,5,,yes,London Heathrow to Sofia,4,Business Class,Solo Leisure,4,2.0
+199,A321neo,3,January 2020,2.0,3,1.0,no,Madrid to London,2,Business Class,Business,2,1.0
+200,A380-800,4,January 2020,3.0,3,3.0,yes,Johannesburg to London,3,Business Class,Couple Leisure,3,
+201,Boeing 777-200,2,January 2020,2.0,4,4.0,no,Las Vegas to Gatwick,2,Business Class,Business,1,
+202,Boeing 747-400,5,January 2020,5.0,1,3.0,no,San Diego to Stockholm via London,5,Business Class,Business,3,1.0
+203,,5,December 2019,5.0,5,5.0,yes,New York to London Heathrow via Copenhagen,5,Economy Class,Solo Leisure,5,1.0
+204,Boeing 787-9,5,January 2020,4.0,3,4.0,yes,Phoenix to London,3,Business Class,Business,5,
+205,Boeing 777-200,4,January 2020,4.0,4,1.0,no,London Heathrow to Bangkok,2,Economy Class,Solo Leisure,2,1.0
+206,Boeing 777-200ER,5,January 2020,5.0,1,2.0,yes,Mumbai to Boston via London,2,Economy Class,Solo Leisure,3,1.0
+207,,1,December 2019,1.0,1,1.0,no,"Orlando, Florida to Accra, Ghana",1,Economy Class,Family Leisure,1,1.0
+208,Boeing 787 / A320,5,January 2020,4.0,4,3.0,yes,Toronto to Geneva via London,4,Economy Class,Solo Leisure,3,
+209,Boeing 777-300,5,January 2020,5.0,4,4.0,yes,Hong Kong to London,4,First Class,Solo Leisure,4,
+210,Boeing 787,1,January 2020,2.0,2,3.0,no,San Jose to Amsterdam via London,1,Economy Class,Business,3,
+211,Boeing 777,4,January 2020,4.0,1,4.0,no,Singapore to Paris via London,3,Business Class,Couple Leisure,2,
+212,Boeing 747-400,5,January 2020,3.0,5,4.0,yes,New York  to London Heathrow,4,Economy Class,Family Leisure,4,
+213,A380,4,January 2020,4.0,4,3.0,yes,London to Johannesburg,4,Business Class,Couple Leisure,4,2.0
+214,Boeing 777-200 / 747-400,5,December 2019,4.0,1,2.0,yes,Boston to Mumbai via London,2,Economy Class,Solo Leisure,5,
+215,,1,January 2020,1.0,3,2.0,no,Gatwick to Cancun,3,Premium Economy,Solo Leisure,2,1.0
+216,A320,3,January 2020,2.0,4,1.0,yes,Gatwick to Tirana,1,Business Class,Business,2,5.0
+217,,3,January 2020,1.0,2,1.0,no,London Heathrow to Vancouver,1,Economy Class,Couple Leisure,1,1.0
+218,,1,January 2020,1.0,5,1.0,no,Tokyo to London Heathrow,2,Economy Class,Couple Leisure,1,1.0
+219,A380,4,December 2019,3.0,1,4.0,no,London to Hong Kong,3,Business Class,Couple Leisure,3,
+220,Boeing 747,3,January 2020,2.0,1,2.0,no,Los Angeles to London Heathrow,1,Business Class,Family Leisure,1,1.0
+221,Boeing 787-9,5,December 2019,5.0,4,5.0,yes,London to Rio De Janeiro,5,Business Class,Solo Leisure,5,2.0
+222,A320,3,December 2019,2.0,4,1.0,yes,Budapest to Billund via London,3,Economy Class,Solo Leisure,3,
+223,,5,December 2019,4.0,4,3.0,yes,Cape Town to Brussels via London,3,Economy Class,Solo Leisure,4,3.0
+224,Boeing 777-300ER,5,December 2019,5.0,4,2.0,yes,Sydney to Toulouse via Singapore / London,5,Economy Class,Solo Leisure,5,1.0
+225,Boeing 777 - 200,2,December 2019,1.0,5,1.0,no,New York to London,2,Economy Class,Business,5,
+226,,1,December 2019,1.0,1,1.0,no,Frankfurt to London,1,Economy Class,Couple Leisure,1,1.0
+227,,1,December 2019,1.0,1,1.0,no,London to Glasgow,1,Economy Class,Solo Leisure,1,1.0
+228,Boeing 747-400,5,December 2019,4.0,5,4.0,yes,London to San Francisco,3,Business Class,Business,4,5.0
+229,A380,5,October 2019,5.0,5,1.0,yes,London to Singapore,4,Business Class,Solo Leisure,5,1.0
+230,A380,3,November 2019,3.0,2,3.0,no,Johannesburg to London,1,Economy Class,Family Leisure,1,
+231,A380,3,December 2019,3.0,3,3.0,yes,Johannesburg to London,3,Business Class,Couple Leisure,4,
+232,Boeing 747-400,5,November 2019,5.0,5,5.0,yes,London Heathrow to Miami,4,First Class,Solo Leisure,5,1.0
+233,Boeing 777-300,4,November 2019,4.0,3,2.0,yes,London to Sydney via Singapore,3,Economy Class,Couple Leisure,4,
+234,Boeing 747-400,4,November 2019,3.0,1,1.0,no,London to New York JFK,1,Business Class,Couple Leisure,1,
+235,Boeing 777-200,2,December 2019,3.0,3,3.0,no,Gatwick to Bridgetown,3,Business Class,Solo Leisure,2,
+236,Boeing 777,2,November 2019,2.0,4,3.0,no,Brussels to Bangkok via London,4,Business Class,Business,3,
+237,A380,3,November 2019,3.0,3,3.0,yes,London to Johannesburg,3,Business Class,Couple Leisure,3,
+238,Boeing 787-9,5,November 2019,4.0,5,4.0,yes,doha to londonDoha to London,5,Economy Class,Family Leisure,5,
+239,,3,November 2019,2.0,3,1.0,no,London to Buenos Aires,2,Economy Class,Family Leisure,2,1.0
+240,A380,2,November 2019,3.0,3,2.0,no,San Francisco to London,4,Economy Class,Couple Leisure,3,
+241,Boeing 777-300,1,November 2019,1.0,2,1.0,no,Sydney to Singapore,1,Business Class,Business,1,1.0
+242,Boeing 777,4,November 2019,1.0,1,1.0,no,London to Mauritius,1,Economy Class,Family Leisure,2,1.0
+243,,5,November 2019,5.0,5,5.0,yes,Los Angeles to Amsterdam via London,5,Business Class,Business,5,5.0
+244,Boeing 747-400,2,November 2019,2.0,2,1.0,no,London to Vancouver,2,Economy Class,Solo Leisure,3,
+245,Boeing 747-400,1,November 2019,1.0,1,1.0,no,New York to Paris via London,1,Economy Class,Couple Leisure,1,2.0
+246,Boeing 777,4,November 2019,4.0,4,4.0,yes,London to Boston,4,Economy Class,Solo Leisure,3,1.0
+247,A320,5,November 2019,3.0,5,5.0,yes,Tirana to London,4,Economy Class,Business,5,5.0
+248,Boeing 747-400,5,November 2019,5.0,5,5.0,yes,Gatwick to St Lucia,5,Economy Class,Solo Leisure,5,
+249,Boeing 787-9,5,October 2019,5.0,4,5.0,yes,Seychelles to London,5,Business Class,Couple Leisure,5,
+250,Boeing 787,4,October 2019,4.0,3,1.0,no,San Jose to London,2,Business Class,Couple Leisure,2,
+251,Boeing 777-200,4,October 2019,4.0,5,5.0,yes,Gatwick to Barbados,4,Economy Class,Family Leisure,5,5.0
+252,Boeing 777,5,October 2019,5.0,5,5.0,yes,Toronto to London,3,Economy Class,Couple Leisure,5,
+253,A380,5,October 2019,5.0,5,4.0,yes,San Francisco to London,5,Business Class,Couple Leisure,4,
+254,,3,April 2019,3.0,2,2.0,no,London Gatwick to Salzburg,2,Economy Class,Couple Leisure,2,2.0
+255,Boeing 747-400,1,October 2019,1.0,3,4.0,no,Vancouver to London,4,Business Class,Business,2,
+256,Boeing 787,1,October 2019,2.0,2,3.0,no,Kuala Lumpur to Glasgow via London,5,Premium Economy,Solo Leisure,1,
+257,Boeing 787-900,5,October 2019,5.0,5,5.0,yes,London Heathrow to Seychelles,5,Business Class,Couple Leisure,5,
+258,A321,4,September 2019,4.0,4,4.0,yes,Amman to London,4,Economy Class,Couple Leisure,4,
+259,Boeing 777,2,October 2019,1.0,1,1.0,no,New York JFK to London,1,Economy Class,Couple Leisure,1,
+260,Boeing 777-200,3,September 2019,1.0,4,1.0,no,Buenos Aires to London Heathrow,1,Premium Economy,Couple Leisure,1,
+261,"Boeing 787-9, A320-200",4,September 2019,4.0,4,4.0,yes,Mexico City to Barcelona via London Heathrow,5,Economy Class,Solo Leisure,3,
+262,Boeing 787-900,5,October 2019,5.0,5,4.0,yes,London Heathrow to Abu Dhabi,5,Economy Class,Couple Leisure,4,3.0
+263,,5,September 2019,1.0,1,1.0,no,Johannesburg to Amsterdam via London,4,Economy Class,Couple Leisure,2,2.0
+264,A350,5,September 2019,5.0,5,3.0,yes,Dubai to London Heathrow,5,Business Class,Business,4,4.0
+265,Boeing 787-9,5,October 2019,5.0,5,5.0,yes,Kuala Lumpur to London,5,Economy Class,Family Leisure,5,
+266,Boeing 787,4,August 2019,3.0,4,4.0,yes,London to Kuala Lumpur,5,Premium Economy,Couple Leisure,4,4.0
+267,,3,October 2019,1.0,3,3.0,no,Newark to Madrid via London,3,Premium Economy,Couple Leisure,3,1.0
+268,A320,5,September 2019,5.0,2,5.0,yes,Gatwick to Alicante,5,Business Class,Business,5,
+269,A380,5,September 2019,4.0,4,4.0,yes,Vancouver to London,5,Premium Economy,Solo Leisure,4,
+270,Boeing 747,5,September 2019,4.0,3,2.0,yes,London Heathrow to Austin,4,Business Class,Couple Leisure,5,
+271,Boeing 747,4,September 2019,4.0,4,1.0,yes,London Heathrow to Austin,4,Business Class,Couple Leisure,4,
+272,A320,4,September 2019,4.0,3,,yes,Cephalonia to London,3,Business Class,Couple Leisure,3,4.0
+273,A380,4,August 2019,1.0,1,1.0,no,Chicago to Zurich via London,1,Economy Class,Family Leisure,3,
+274,,5,August 2019,3.0,1,3.0,no,Phoenix to Tel Aviv via London,3,Premium Economy,Family Leisure,1,1.0
+275,Boeing 777-200,4,September 2019,1.0,1,1.0,no,London Heathrow to Abuja Nigeria,3,Economy Class,Business,2,
+276,Boeing 777-300,3,September 2019,4.0,4,1.0,no,London to Bangkok,2,Economy Class,Solo Leisure,3,
+277,Boeing 747-400,5,August 2019,5.0,5,5.0,yes,Belfast to San Francisco via London,5,Business Class,Couple Leisure,5,
+278,Boeing 787 / A320,2,September 2019,2.0,1,4.0,no,Mahe to Stockholm via London,1,Business Class,Solo Leisure,2,
+279,A319 / Boeing777,5,September 2019,3.0,5,3.0,yes,Glasgow to Tampa via Gatwick,4,Business Class,Couple Leisure,4,
+280,Boeing 777-200,3,September 2019,1.0,3,4.0,no,Orlando to Gatwick,2,Economy Class,Family Leisure,1,
+281,Boeing 787,4,August 2019,5.0,4,5.0,yes,London to Abu Dhabi,3,Economy Class,Family Leisure,4,
+282,Boeing 777,2,May 2019,1.0,4,2.0,no,Sydney to London via Singapore,4,Premium Economy,Business,3,3.0
+283,Boeing 777-200,5,August 2019,4.0,5,3.0,yes,London to Shanghai,5,First Class,Family Leisure,5,3.0
+284,,3,August 2019,3.0,1,4.0,no,Chicago to Heathrow via Barcelona,3,Business Class,Business,3,4.0
+285,,5,November 2018,5.0,5,5.0,yes,New Orleans to London,5,Economy Class,Family Leisure,5,5.0
+286,Boeing 747,1,June 2019,1.0,1,1.0,no,Boston to Copenhagen via London,1,Premium Economy,Family Leisure,1,1.0
+287,Boeing 777-200,3,July 2019,4.0,5,1.0,no,London Gatwick to San Jose Costa Rica,1,Business Class,Business,1,1.0
+288,Boeing 777,4,August 2019,3.0,1,3.0,no,London to Dubai,3,Economy Class,Solo Leisure,3,
+289,"A340-300, A320",5,August 2019,5.0,5,5.0,yes,Toronto to Pisa London Heathrow,4,Business Class,Family Leisure,5,
+290,,4,August 2019,2.0,1,2.0,no,Chicago to London,2,Premium Economy,Couple Leisure,3,4.0
+291,Boeing 777-200,5,July 2019,4.0,5,4.0,yes,Gatwick to Orlando,4,Economy Class,Family Leisure,4,
+292,A320,5,July 2019,5.0,5,3.0,yes,Vienna to Heathrow,4,Economy Class,Solo Leisure,4,
+293,A321,2,August 2019,2.0,1,1.0,no,Malaga to London,1,Business Class,Couple Leisure,1,1.0
+294,,4,August 2019,3.0,1,3.0,no,Sydney to Singapore,1,Business Class,Couple Leisure,1,1.0
+295,,2,August 2019,1.0,1,1.0,no,Inverness to Vancouver via London,2,Economy Class,Solo Leisure,1,1.0
+296,A320,1,August 2019,1.0,1,1.0,no,Palma to London Heathrow,1,Business Class,Couple Leisure,1,1.0
+297,Boeing 777,5,July 2019,4.0,4,2.0,yes,Buenos Aires to London Heathrow,3,Economy Class,Couple Leisure,4,
+298,Boeing 777-300ER,3,July 2019,3.0,2,3.0,yes,Hong Kong to London,4,Economy Class,Family Leisure,3,2.0
+299,,4,July 2019,4.0,1,4.0,no,London Heathrow to Las Vegas,3,Premium Economy,Business,3,1.0
+300,B777-200,1,June 2019,3.0,3,2.0,no,London to Delhi,1,Economy Class,Business,2,
+301,Boeing 747-400,3,July 2019,1.0,3,1.0,no,London Heathrow to Austin,1,Economy Class,Family Leisure,2,1.0
+302,Boeing 737-800,5,July 2019,5.0,5,5.0,yes,Johannesburg OR Tambo to Cape Town,4,Economy Class,Family Leisure,5,
+303,Boeing 777-200,4,July 2019,3.0,4,5.0,yes,Grenada to Gatwick,1,Economy Class,Family Leisure,3,
+304,Boeing 777,5,July 2019,3.0,5,5.0,yes,London to Dubai,5,Premium Economy,Solo Leisure,5,5.0
+305,Boeing 737,4,July 2019,1.0,3,3.0,yes,Orlando to London,3,Premium Economy,Family Leisure,3,1.0
+306,A320,1,September 2018,1.0,1,1.0,no,Heathrow to Marseille,1,Economy Class,Solo Leisure,1,1.0
+307,B777-200,1,July 2019,1.0,3,4.0,no,Barbados to Gatwick,3,Economy Class,Couple Leisure,3,
+308,A380,5,June 2019,5.0,5,5.0,yes,London Heathrow to Singapore,5,Economy Class,Solo Leisure,5,
+309,A319 / Boeing 789,2,June 2019,2.0,1,2.0,no,Hamburg to Abu Dhabi via London Heathrow,1,Economy Class,Business,3,1.0
+310,Boeing 777-200 and A319,3,June 2019,3.0,3,4.0,yes,New York to Glasgow via London,3,Economy Class,Solo Leisure,4,
+311,,5,June 2019,5.0,5,1.0,yes,London Heathrow to New York,5,Economy Class,Family Leisure,5,5.0
+312,Boeing 777-200,5,June 2019,5.0,3,5.0,yes,Gatwick to Bermuda,4,Business Class,Family Leisure,5,2.0
+313,A321 / Boeing 787-9,2,October 2018,2.0,3,4.0,no,Manchester to Kuala Lumpur via London,2,Economy Class,Family Leisure,3,3.0
+314,Boeing 787,1,June 2019,2.0,1,1.0,no,London to Seoul,1,Business Class,Solo Leisure,1,1.0
+315,A380,4,June 2019,4.0,3,2.0,no,London to Vancouver,2,Economy Class,Solo Leisure,3,1.0
+316,Boeing 777 / 747,4,June 2019,1.0,3,5.0,no,Tel Aviv to New York via London,3,Economy Class,Solo Leisure,3,
+317,A319 / Boeing 777,4,April 2019,2.0,3,3.0,no,Belfast  to Atlanta via London,3,Economy Class,Solo Leisure,2,
+318,Boeing 787-9,1,May 2019,1.0,1,1.0,no,London to Nashville,1,Business Class,Business,1,1.0
+319,B747-400 in retro,5,June 2019,5.0,5,3.0,yes,London to Washington,5,First Class,Solo Leisure,5,
+320,,3,June 2019,4.0,3,3.0,yes,London to Bengaluru,4,Economy Class,Business,4,3.0
+321,,5,May 2019,4.0,4,4.0,yes,London to Delhi,4,First Class,Couple Leisure,4,3.0
+322,B737-400 / A380 / A319,5,May 2019,5.0,5,5.0,yes,Durban to Leeds via Johannesburg / Heathrow,4,Business Class,Couple Leisure,5,
+323,Boeing 787,5,May 2019,5.0,5,5.0,yes,London Heathrow to Los Angeles,4,Business Class,Couple Leisure,4,
+324,Boeing 744,4,May 2019,4.0,4,3.0,yes,Cape Town to London Heathrow,3,Business Class,Couple Leisure,3,
+325,Boeing 777-200,4,May 2019,4.0,4,1.0,no,Lima to Gatwick,2,Economy Class,Couple Leisure,3,
+326,,5,May 2019,4.0,4,4.0,no,Inverness to Auckland via Singapore,1,Economy Class,Solo Leisure,2,1.0
+327,Boeing 777-200,1,May 2019,2.0,3,4.0,no,Gatwick to Barbados,3,Economy Class,Couple Leisure,3,
+328,A380 / Boeing 777,4,May 2019,3.0,4,3.0,yes,Boston to London Heathrow,4,Economy Class,Solo Leisure,4,
+329,Boeing 747-400,4,May 2019,4.0,3,3.0,yes,London to Cape Town,4,First Class,Couple Leisure,3,
+330,A380,5,May 2019,4.0,4,3.0,yes,Vancouver to London,4,Economy Class,Couple Leisure,4,4.0
+331,Boeing 747 400,4,May 2019,4.0,3,4.0,yes,Washington to London,4,First Class,Business,4,1.0
+332,Boeing 777-200,1,April 2019,1.0,3,1.0,no,London to Shanghai,2,Business Class,Business,2,
+333,Boeing 787,5,December 2018,5.0,1,5.0,yes,London to Calgary,5,Business Class,Solo Leisure,5,
+334,Boeing 747,5,April 2019,5.0,5,5.0,yes,Vancouver to London,5,Business Class,Couple Leisure,5,
+335,Boeing 777-200/300,5,April 2019,4.0,5,2.0,yes,London Heathrow to Bengaluru,3,Economy Class,Couple Leisure,5,
+336,Boeing 747-400,2,April 2019,3.0,3,3.0,no,London to Seattle,4,Business Class,Business,2,
+337,Boeing 747,3,March 2019,4.0,4,1.0,no,London to Boston,2,Business Class,Business,2,
+338,Boeing 787-9,4,April 2019,3.0,5,1.0,yes,London to Doha,3,Business Class,Family Leisure,4,
+339,Boeing 747,5,April 2019,5.0,4,4.0,yes,London Heathrow to Houston,5,Economy Class,Couple Leisure,4,
+340,Boeing 787-9,5,November 2018,5.0,5,5.0,yes,London to Tokyo Narita,5,First Class,Couple Leisure,5,
+341,777,2,April 2019,1.0,1,1.0,no,St Lucia to Gatwick,1,Economy Class,Couple Leisure,1,
+342,Boeing 787-9 / A319,4,March 2019,2.0,4,2.0,yes,Doha to Paris via London,5,Business Class,Family Leisure,3,
+343,Boeing 747-400,5,March 2019,4.0,4,4.0,yes,London to Vancouver,3,Economy Class,Solo Leisure,4,
+344,Boeing 777,5,March 2019,2.0,4,3.0,yes,London to Mumbai,4,First Class,Solo Leisure,4,
+345,Boeing 777,2,March 2019,1.0,2,1.0,no,London to Chicago,2,First Class,Business,2,
+346,Boeing 787,5,March 2019,5.0,4,5.0,yes,Los Angeles to London,4,Business Class,Couple Leisure,5,
+347,Boeing 777,2,March 2019,2.0,1,2.0,no,Tampa to Gatwick,2,Economy Class,Couple Leisure,1,
+348,Boeing 777,1,February 2019,1.0,3,1.0,no,Gatwick to St Lucia,2,Business Class,Couple Leisure,1,1.0
+349,Boeing 777,5,February 2019,3.0,5,4.0,yes,London to Austin,4,Economy Class,Business,4,
+350,B777,2,March 2019,1.0,1,1.0,no,Edinburgh to Boston via London,1,Economy Class,Couple Leisure,1,
+351,Boeing 777,3,February 2019,2.0,2,1.0,no,Gatwick to Mauritius,1,Economy Class,Couple Leisure,2,
+352,,2,February 2019,1.0,1,4.0,no,New York to Venice via London,1,Business Class,Business,1,2.0
+353,B747-400,1,February 2019,1.0,1,1.0,no,Chicago to London Heathrow,1,Business Class,Business,1,1.0
+354,Boeing 747-400,2,February 2019,1.0,1,1.0,no,London to Chicago,1,First Class,Business,1,1.0
+355,A380,1,December 2018,1.0,4,3.0,no,London to Johannesburg,2,Business Class,Business,1,
+356,Boeing 787-9,3,February 2019,3.0,3,2.0,yes,Doha to London Heathrow,3,Economy Class,Business,3,2.0
+357,,5,October 2018,5.0,5,5.0,yes,Miami to Tel Aviv via London,5,Premium Economy,Solo Leisure,5,5.0
+358,Boeing 787-9,4,February 2019,3.0,2,3.0,yes,London to Seoul,5,Premium Economy,Business,4,
+359,Boeing 747-400,5,February 2019,4.0,5,5.0,yes,London to New York JFK,4,Premium Economy,Family Leisure,4,3.0
+360,Boeing 777,4,February 2019,4.0,3,4.0,yes,Gatwick to St Lucia,4,Business Class,Business,3,
+361,,5,March 2018,5.0,5,5.0,yes,London to Chennai,5,Economy Class,Solo Leisure,5,5.0
+362,Boeing 787,1,February 2019,1.0,2,1.0,no,Baltimore to London Heathrow,1,Economy Class,Couple Leisure,2,
+363,,4,November 2018,3.0,3,3.0,no,Bridgetown to Gatwick,2,First Class,Solo Leisure,1,1.0
+364,A320,5,December 2018,1.0,1,1.0,no,London to Athens,3,Economy Class,Couple Leisure,2,1.0
+365,Boeing 787,4,September 2018,5.0,4,5.0,yes,New Orleans to London,5,Premium Economy,Couple Leisure,5,
+366,Boeing 787-9,3,January 2019,5.0,5,5.0,yes,Tokyo Narita to London Heathrow,4,Business Class,Couple Leisure,4,
+367,Boeing 777,5,January 2019,5.0,5,5.0,yes,London to Tokyo Haneda,5,First Class,Couple Leisure,4,
+368,,3,February 2019,3.0,1,1.0,no,San Diego to Frankfurt via London,3,Premium Economy,Business,2,3.0
+369,A320,4,November 2018,4.0,4,2.0,yes,London Heathrow to Paris CDG,3,Economy Class,Family Leisure,4,1.0
+370,A380,3,February 2019,3.0,3,4.0,yes,Johannesburg to London,3,Business Class,Family Leisure,3,4.0
+371,,1,February 2019,3.0,1,1.0,no,Edinburgh to Bangalore via Heathrow,3,Economy Class,Solo Leisure,1,1.0
+372,A380 / A319,3,March 2018,2.0,4,3.0,yes,Berlin to Johannesburg via London,3,Economy Class,Solo Leisure,4,
+373,Boeing 777,4,August 2018,3.0,3,2.0,yes,New York JFK to London Heathrow,3,Economy Class,Family Leisure,3,1.0
+374,A380,3,January 2019,3.0,3,3.0,yes,Johannesburg to London,4,First Class,Couple Leisure,3,3.0
+375,A380,4,January 2019,4.0,3,3.0,yes,London to Johannesburg,3,Business Class,Couple Leisure,3,
+376,A380,5,January 2019,4.0,4,5.0,yes,London to Johannesburg,4,Business Class,Family Leisure,4,4.0
+377,Boeing 777,1,January 2019,1.0,3,1.0,no,Bermuda to Gatwick,1,Premium Economy,Couple Leisure,1,1.0
+378,A321-200,4,January 2019,,1,1.0,no,Zurich to Heathrow,1,Economy Class,Solo Leisure,2,1.0
+379,A380,4,January 2019,1.0,3,3.0,no,Miami to London,3,Premium Economy,Solo Leisure,3,3.0
+380,Boeing 777-200,2,January 2019,2.0,4,3.0,no,Antigua to Gatwick,1,Premium Economy,Couple Leisure,1,
+381,Boeing 787,5,January 2019,2.0,5,1.0,no,Bucharest to London Heathrow to Los Angeles,1,Economy Class,Solo Leisure,1,1.0
+382,Boeing 747,2,January 2019,1.0,3,1.0,no,London to Miami,1,Business Class,Business,1,
+383,Boeing 787 Dreamliner,3,June 2018,3.0,4,4.0,yes,London to Calgary,3,Premium Economy,Business,2,3.0
+384,Boeing 787,4,June 2018,3.0,3,3.0,no,Calgary to London,3,Premium Economy,Business,2,3.0
+385,Boeing 777-200,2,January 2019,2.0,2,1.0,no,Bangalore to London,2,Premium Economy,Business,1,
+386,777,1,January 2019,1.0,1,1.0,no,San Francisco to London,1,Economy Class,Couple Leisure,1,
+387,Boeing 747,4,October 2018,3.0,4,2.0,no,Heathrow to Vancouver,4,Economy Class,Solo Leisure,1,
+388,A320,4,January 2019,1.0,5,1.0,no,London to Bucharest,1,Economy Class,Solo Leisure,3,
+389,Boeing 777-200,5,December 2018,4.0,4,4.0,yes,London to Boston,1,Economy Class,Couple Leisure,4,
+390,Boeing 747-400,3,December 2018,5.0,4,5.0,yes,Boston to London,2,Economy Class,Couple Leisure,4,
+391,A380,5,January 2019,5.0,5,5.0,yes,London to Johannesburg,5,Economy Class,Couple Leisure,5,
+392,Boeing 787-9 / 777,4,December 2018,4.0,4,4.0,yes,Newark to Bangalore via London,4,Premium Economy,Solo Leisure,3,
+393,Boeing 777,5,December 2018,5.0,5,3.0,yes,London to Mumbai,5,Economy Class,Solo Leisure,4,
+394,Boeing 777,3,December 2018,2.0,2,1.0,no,Heathrow to Sydney via Singapore,1,Economy Class,Family Leisure,2,1.0
+395,A380,1,November 2018,1.0,2,3.0,no,Johannesburg to London,1,Business Class,Couple Leisure,1,
+396,Boeing 787,4,December 2018,3.0,5,1.0,no,London to Kuala Lumpur,1,Economy Class,Solo Leisure,1,
+397,Boeing 747,2,December 2018,1.0,1,4.0,no,Los Angeles to London Heathrow,2,Economy Class,Solo Leisure,2,
+398,Boeing 777-200,5,December 2018,2.0,3,2.0,no,Gatwick to Barbados,2,First Class,Couple Leisure,3,
+399,Boeing 787-9,5,December 2018,5.0,5,5.0,yes,Moscow to London,5,First Class,Solo Leisure,5,
+400,A319 / Boeing 777,5,December 2018,5.0,4,5.0,yes,Glasgow to New York via London,4,Economy Class,Couple Leisure,4,2.0
+401,Boeing 777,1,December 2018,1.0,2,1.0,no,Sydney to London via Singapore,1,Business Class,Business,1,
+402,A380,3,December 2018,3.0,3,2.0,no,Johannesburg to London,4,First Class,Couple Leisure,3,
+403,Boeing 777,2,December 2018,2.0,1,1.0,no,Gatwick to Barbados,2,First Class,Couple Leisure,1,
+404,Boeing 747-400,1,November 2018,1.0,3,3.0,no,Cape Town to London,2,Business Class,Couple Leisure,1,
+405,,5,December 2018,4.0,5,4.0,yes,Kuala Lumpur to Mexico City via London,4,Economy Class,Business,5,3.0
+406,Boeing 747-400,1,December 2018,1.0,3,1.0,no,Miami to London,1,Economy Class,Family Leisure,1,
+407,,4,December 2018,4.0,4,1.0,yes,Gatwick to Las Vegas,3,Economy Class,Family Leisure,4,3.0
+408,Boeing 777,3,November 2018,1.0,3,1.0,no,Nassau to London,2,Premium Economy,Couple Leisure,1,
+409,Boeing 747,5,November 2018,5.0,5,3.0,yes,Phoenix to Accra via London,5,Business Class,Business,5,
+410,Boeing 777,4,November 2018,4.0,2,4.0,no,San Diego to Hannover via London,2,Economy Class,Solo Leisure,2,
+411,A380,5,November 2018,5.0,4,4.0,yes,London to Johannesburg,5,First Class,Couple Leisure,4,
+412,,5,November 2018,4.0,4,1.0,no,London to Dubai,4,Business Class,Business,1,1.0
+413,Boeing 747-400,5,November 2018,4.0,5,2.0,yes,Vancouver to London Heathrow,5,Economy Class,Family Leisure,4,
+414,Boeing 747,3,November 2018,2.0,5,3.0,no,Basel to San Fransisco via Heathrow,2,Premium Economy,Solo Leisure,2,
+415,,5,November 2018,4.0,4,4.0,yes,London to Boston,3,Economy Class,Business,5,1.0
+416,Boeing 777-200,2,November 2018,1.0,1,1.0,no,Buenos Aires to London,1,Economy Class,Couple Leisure,1,
+417,Boeing 777,2,November 2018,2.0,3,3.0,no,Riyadh to London,1,Business Class,Business,1,
+418,,1,November 2018,1.0,1,1.0,no,Singapore to Sydney,1,Economy Class,Family Leisure,1,1.0
+419,A321,3,October 2018,2.0,3,2.0,yes,London to Athens,4,Economy Class,Solo Leisure,3,1.0
+420,Boeing 777-200,3,October 2018,2.0,3,1.0,no,London to Bangkok,3,Business Class,Solo Leisure,2,1.0
+421,A340-300,1,October 2018,1.0,3,1.0,no,Abu Dhabi to London,2,Economy Class,Solo Leisure,3,1.0
+422,Boeing 777,2,October 2018,3.0,2,1.0,no,Gatwick to Orlando,1,Business Class,Business,1,1.0
+423,A319 / Boeing 747,4,October 2018,4.0,4,3.0,yes,Newcastle to Las Vegas via London,4,Business Class,Solo Leisure,5,
+424,Boeing 787-9,1,October 2018,2.0,2,3.0,no,London to Philadelphia,1,Business Class,Business,1,
+425,A319 / Boeing 747-400,5,October 2018,4.0,5,4.0,yes,Manchester to Philadelphia via London,5,First Class,Solo Leisure,5,
+426,Boieng 777-200,2,October 2018,2.0,1,3.0,no,Bangkok to London,3,Economy Class,Business,2,
+427,Boeing 777,3,October 2018,3.0,2,2.0,no,London to Toronto,1,Economy Class,Solo Leisure,1,
+428,A380,2,October 2018,1.0,4,1.0,no,Johannesburg to London,2,Business Class,Business,2,
+429,Boeing 777-300ER,5,September 2018,3.0,3,2.0,yes,Singapore to London Heathrow,4,Business Class,Solo Leisure,3,
+430,Boeing 747-400,1,August 2018,1.0,3,1.0,no,London to Los Angeles,1,Business Class,Couple Leisure,3,1.0
+431,Boeing 747,5,September 2018,3.0,1,2.0,no,Miami to London Heathrow,1,Premium Economy,Solo Leisure,2,
+432,,1,October 2018,1.0,1,1.0,no,London Heathrow to Milan Malpensa,1,Business Class,Couple Leisure,1,1.0
+433,Boeing 747-400,5,August 2018,5.0,4,4.0,yes,London Heathrow to Miami,5,Economy Class,Family Leisure,5,
+434,A380,5,September 2018,5.0,4,4.0,yes,London to Singapore,5,Economy Class,Solo Leisure,5,
+435,"Boeing 787-9, A380",4,September 2018,3.0,5,3.0,yes,Kuala Lumpur to London Heathrow,3,Premium Economy,Business,4,
+436,A319,4,June 2018,4.0,1,3.0,no,Los Angeles to Leeds via London Heathrow,4,Business Class,Couple Leisure,3,2.0
+437,A380,1,September 2018,1.0,3,1.0,no,Chicago to London,1,Premium Economy,Couple Leisure,1,
+438,Boeing 777,5,August 2018,5.0,3,4.0,yes,Riyadh to London,5,Premium Economy,Solo Leisure,5,
+439,A320 / Boeing 787-9,4,September 2018,3.0,4,3.0,yes,Rome to Newark via London,4,Economy Class,Couple Leisure,3,
+440,Boeing 747-400,4,September 2018,2.0,1,3.0,no,London Heathrow to New York JFK,3,Business Class,Business,3,5.0
+441,Boeing 777-200,5,September 2018,5.0,4,3.0,yes,London Heathrow to Dubai,4,First Class,Couple Leisure,4,2.0
+442,Boeing 747,5,August 2018,5.0,4,2.0,yes,Glasgow to Miami via London,3,Premium Economy,Solo Leisure,4,
+443,A319 / Boeing 787-9,5,September 2018,5.0,5,4.0,yes,Pisa to Toronto via London,4,Business Class,Family Leisure,5,
+444,Boeing 747-400 / A319,3,August 2018,2.0,4,1.0,no,Washington to Frankfurt via London,3,Economy Class,Solo Leisure,2,
+445,A380,5,August 2018,3.0,4,5.0,yes,London Heathrow to Hong Kong,5,Economy Class,Solo Leisure,3,
+446,A320,3,August 2018,2.0,2,1.0,no,London to Athens,1,Business Class,Couple Leisure,3,1.0
+447,A380,5,July 2018,5.0,5,4.0,yes,London Heathrow to Singapore,5,First Class,Family Leisure,5,
+448,Boeing 787,1,August 2018,1.0,4,3.0,no,Philadelphia to London,3,Premium Economy,Couple Leisure,3,
+449,Boeing 747-400,1,July 2018,1.0,1,1.0,no,London to Las Vegas,1,Economy Class,Family Leisure,1,
+450,A380,3,August 2018,3.0,1,3.0,no,Los Angeles to Milan via London,4,Business Class,Family Leisure,1,
+451,Boeing 777,5,August 2018,2.0,4,2.0,yes,Toronto to London,3,Premium Economy,Solo Leisure,3,
+452,A380,5,July 2018,4.0,4,1.0,no,San Francisco to London Heathrow,4,Business Class,Couple Leisure,4,
+453,Boeing 747-400,5,July 2018,2.0,2,2.0,no,New York to Nairobi via London,2,Business Class,Family Leisure,2,
+454,Boeing 787-9,5,July 2018,4.0,4,4.0,yes,London to Santiago de Chile,4,Premium Economy,Business,5,
+455,Boeing 777,4,July 2018,4.0,4,2.0,no,London Heathrow to Seattle Tacoma,4,Business Class,Couple Leisure,4,
+456,Boeing 777,1,July 2018,1.0,1,4.0,no,Aberdeen to Abu Dhabi via London,3,Economy Class,Family Leisure,3,
+457,A320 / Boeing 747-400,5,June 2018,5.0,1,3.0,no,Prague to Denver via London,3,Economy Class,Solo Leisure,2,
+458,Boeing 777 / A380,5,June 2018,4.0,5,5.0,yes,HKG to LHR,4,Premium Economy,Business,4,3.0
+459,Boeing 787-9 / A380-800,5,May 2018,4.0,1,5.0,no,Jeddah to Chicago via London,4,First Class,Solo Leisure,5,4.0
+460,Boeing 777-200,3,May 2018,1.0,4,4.0,yes,Bermuda to Gatwick,4,Business Class,Couple Leisure,2,
+461,,4,July 2018,4.0,4,5.0,yes,Aberdeen to Boston via London,2,Economy Class,Business,3,4.0
+462,,3,July 2018,2.0,1,3.0,no,London Heathrow to Hong Kong,3,Premium Economy,Family Leisure,2,2.0
+463,,1,July 2018,1.0,1,1.0,no,London Heathrow to Manchester,1,Economy Class,Solo Leisure,1,1.0
+464,Boeing 777,5,June 2018,4.0,2,2.0,no,London to Shanghai,1,Business Class,Business,3,
+465,Boeing 747,2,June 2018,2.0,3,2.0,no,London Heathrow to Las Vegas,3,First Class,Business,1,2.0
+466,Boeing 747 / 777,4,June 2018,4.0,4,4.0,yes,Delhi to London,4,Premium Economy,Solo Leisure,4,
+467,Boeing 787(9),3,June 2018,3.0,1,3.0,no,Seychelles to London,2,Business Class,Couple Leisure,1,
+468,A380,4,June 2018,2.0,2,2.0,no,London to Vancouver,2,First Class,Business,4,
+469,Boeing 747,5,June 2018,5.0,1,5.0,no,New York JFK to Rome via London Heathrow,3,Economy Class,Family Leisure,1,5.0
+470,Boeing 777,1,June 2018,1.0,4,3.0,no,Newark to London Heathrow,3,Business Class,Business,2,3.0
+471,Boeing 747 and Boeing 777,5,June 2018,5.0,5,4.0,yes,London Heathrow to Seattle,4,Business Class,Couple Leisure,3,
+472,Boeing 747,1,April 2018,1.0,4,1.0,no,London to Johannesburg,1,Economy Class,Solo Leisure,2,1.0
+473,Boeing 787,1,June 2018,1.0,2,2.0,no,Calgary to London,1,Premium Economy,Couple Leisure,2,1.0
+474,Boeing 767,2,June 2018,1.0,4,1.0,no,London to Zurich,3,Economy Class,Business,4,1.0
+475,Boeing 747,4,June 2018,4.0,3,3.0,no,Glasgow to New York via London,2,Economy Class,Couple Leisure,3,
+476,Boeing 787,3,June 2018,3.0,4,4.0,yes,London Heathrow to Baltimore,2,Economy Class,Solo Leisure,4,
+477,,2,May 2018,1.0,1,3.0,no,Los Angeles to London,1,Premium Economy,Couple Leisure,1,3.0
+478,Boeing 747-400,3,June 2018,2.0,3,2.0,no,Cape Town to London Heathrow,2,Business Class,Couple Leisure,3,
+479,Boeing 777-200 ER,5,June 2018,4.0,5,3.0,yes,Toronto to London,3,Premium Economy,Solo Leisure,4,
+480,Boeing 747-400,5,April 2018,4.0,4,4.0,yes,London to Chicago,5,Economy Class,Couple Leisure,5,
+481,Boeing 747-400,2,May 2018,4.0,4,3.0,yes,London to Cape Town,4,First Class,Couple Leisure,3,
+482,A380,1,May 2018,1.0,1,1.0,no,Los Angeles to London Heathrow,1,Business Class,Business,1,1.0
+483,A380,3,May 2018,4.0,4,3.0,yes,London Heathrow to Singapore,4,Economy Class,Solo Leisure,4,
+484,Boeing 747 400,4,May 2018,2.0,2,1.0,no,Washington to London,1,Premium Economy,Couple Leisure,1,
+485,A380,2,May 2018,1.0,3,1.0,no,Singapore to London,4,Economy Class,Business,4,
+486,Boeing 777-200,3,May 2018,1.0,4,1.0,no,Sydney to London via Singapore,4,Economy Class,Business,4,
+487,Boeing 747-400,1,May 2018,1.0,3,1.0,no,Cape Town to London,3,Business Class,Business,2,
+488,Boeing 787 / A320,3,May 2018,3.0,2,4.0,no,Washington to Prague via London,1,Economy Class,Couple Leisure,3,
+489,Boeing 747,2,May 2018,2.0,4,1.0,no,London to Washington,3,First Class,Solo Leisure,1,
+490,Boeing 747,4,May 2018,3.0,3,3.0,yes,Washington to Glasgow via London,4,Economy Class,Solo Leisure,5,
+491,Boeing 777-300ER / A320,2,May 2018,1.0,4,1.0,no,Tokyo to Amsterdam via London,2,Economy Class,Solo Leisure,3,
+492,A320,1,May 2018,1.0,1,2.0,no,London Heathrow to Vienna,1,Economy Class,Solo Leisure,1,
+493,Boeing 747,3,May 2018,4.0,4,1.0,yes,London to Phoenix,4,Business Class,Business,4,1.0
+494,A319 / Boeing 777,5,April 2018,5.0,2,4.0,yes,Brussels to Shanghai via London,5,Economy Class,Solo Leisure,5,
+495,A380,4,May 2018,3.0,4,3.0,yes,Chicago to London Heathrow,4,Economy Class,Solo Leisure,3,3.0
+496,A320 / Boeing 787,4,April 2018,2.0,4,4.0,no,Athens to Philadelphia via London,4,Economy Class,Couple Leisure,3,4.0
+497,Boeing 777,5,April 2018,3.0,4,3.0,no,Hong Kong to London,2,Business Class,Couple Leisure,4,
+498,A380,5,April 2018,4.0,5,5.0,yes,Los Angeles to London Heathrow,4,Business Class,Solo Leisure,5,
+499,A319 / Boeing 787-8,2,May 2018,2.0,1,4.0,no,Hamburg to Abu Dhabi via London,3,Premium Economy,Solo Leisure,2,
+500,Boeing 787-8,3,April 2018,3.0,4,4.0,yes,GIG to LHR,4,Business Class,Family Leisure,3,3.0
+501,Boeing 747,1,April 2018,1.0,4,2.0,no,London Heathrow to Vancouver,1,Premium Economy,Solo Leisure,2,
+502,A380,5,March 2018,4.0,2,3.0,no,Singapore to Dublin via London,2,Business Class,Business,2,
+503,,3,April 2018,1.0,2,1.0,no,London to Budapest,3,Economy Class,Couple Leisure,1,1.0
+504,Boeing 777-300,4,April 2018,4.0,5,5.0,yes,London to Sao Paulo,4,Business Class,Family Leisure,4,4.0
+505,Boeing 777,1,April 2018,1.0,1,1.0,no,Tampa to London Gatwick,1,Business Class,Couple Leisure,1,1.0
+506,Boeing 747-400,4,March 2018,4.0,4,4.0,yes,Miami to London,4,Economy Class,Solo Leisure,4,
+507,Boeing 747-400,3,April 2018,3.0,3,2.0,no,London Heathrow to Dallas,3,Economy Class,Solo Leisure,2,
+508,,3,April 2018,1.0,2,1.0,no,Istanbul to London,3,Economy Class,Business,1,1.0
+509,A380,1,April 2018,2.0,1,3.0,no,Los Angeles to London,1,Premium Economy,Family Leisure,1,1.0
+510,,1,April 2018,1.0,1,1.0,no,Belfast to London,2,Economy Class,Business,1,1.0
+511,Boeing 777-300,1,April 2018,2.0,2,3.0,no,São Paulo to London Heathrow,2,Premium Economy,Family Leisure,2,
+512,,2,February 2018,2.0,1,2.0,no,Dallas to Lagos via London Heathrow,2,Premium Economy,Couple Leisure,1,1.0
+513,Boeing 777,5,April 2018,2.0,1,2.0,no,London Heathrow to New York JFK,1,Economy Class,Family Leisure,3,
+514,Boeing 787-9,5,April 2018,5.0,5,5.0,yes,London Heathrow to Cairo,4,Premium Economy,Family Leisure,5,
+515,Boeing 777,2,March 2018,2.0,3,3.0,no,St Lucia to Gatwick,2,Business Class,Couple Leisure,1,
+516,Boeing 777-200,3,March 2018,3.0,3,2.0,no,Fort Lauderdale to Gatwick,2,Business Class,Couple Leisure,3,
+517,Boeing 747,5,March 2018,4.0,4,3.0,yes,Dubai to London Heathrow,4,Business Class,Family Leisure,4,
+518,Boeing 787-9,4,March 2018,4.0,4,3.0,yes,London to Muscat,5,First Class,Solo Leisure,4,
+519,Boeing 777-200,4,March 2018,4.0,4,3.0,yes,London Gatwick to Fort Lauderdale,3,Business Class,Couple Leisure,4,
+520,Boeing 777,2,March 2018,1.0,1,2.0,no,Bangkok to London,1,Economy Class,Couple Leisure,2,1.0
+521,Boeing 777,1,February 2018,1.0,1,3.0,no,Moscow to Heathrow,2,Economy Class,Solo Leisure,3,1.0
+522,Boeing 787-9,1,October 2017,1.0,2,1.0,no,London Heathrow to Delhi Airport,4,First Class,Business,1,1.0
+523,Boeing 747-400,3,March 2018,3.0,3,1.0,no,Miami to London,2,Economy Class,Business,2,1.0
+524,A380,1,March 2018,1.0,1,1.0,no,Singapore to Heathrow,1,Premium Economy,Business,1,
+525,Boeing 787,4,February 2018,3.0,4,2.0,yes,London Heathrow to Toronto,3,Economy Class,Solo Leisure,4,
+526,A380,1,February 2018,1.0,3,3.0,no,London to Hong Kong,3,Business Class,Business,1,1.0
+527,A380,5,February 2018,3.0,5,5.0,yes,Miami to London Heathrow,5,Premium Economy,Solo Leisure,5,
+528,Boeing 747,5,July 2017,1.0,1,1.0,no,London to Phoenix,1,First Class,Couple Leisure,1,1.0
+529,Boeing 747-400,1,February 2018,1.0,3,1.0,no,Chicago to London Heathrow,1,Business Class,Business,1,1.0
+530,Boeing 747,3,February 2018,2.0,3,2.0,no,London Heathrow to Miami,2,Premium Economy,Couple Leisure,2,
+531,Boeing 777,5,December 2017,4.0,3,4.0,yes,London to Bombay,4,Economy Class,Solo Leisure,5,
+532,A319/320,3,February 2018,2.0,3,1.0,no,Manchester to Gothenburg via London Heathrow,2,Business Class,Couple Leisure,2,1.0
+533,,4,January 2018,2.0,2,1.0,no,London to Athens,1,Business Class,Business,1,1.0
+534,Boeing 777,3,February 2018,4.0,4,3.0,no,London Gatwick to Cape Town,4,Economy Class,Couple Leisure,3,
+535,,1,February 2018,1.0,1,3.0,no,Las Vegas to London Heathrow,2,Economy Class,Couple Leisure,2,1.0
+536,Boeing 777,5,February 2018,1.0,4,3.0,no,Orlando to Gatwick,3,Economy Class,Solo Leisure,3,
+537,A380,5,January 2018,3.0,5,5.0,yes,London to Johannesburg,5,Economy Class,Solo Leisure,4,
+538,Boeing 777,1,February 2018,1.0,2,1.0,no,London to Bengaluru,2,Premium Economy,Solo Leisure,1,
+539,Boeing 777-300ER,4,January 2018,4.0,4,5.0,yes,Houston to Dublin via London Heathrow,3,Economy Class,Couple Leisure,5,
+540,,4,February 2018,1.0,1,4.0,no,Reykjavik to London,4,Economy Class,Couple Leisure,2,4.0
+541,A380,2,January 2018,2.0,1,2.0,no,Singapore to Madrid via London Heathrow,1,Business Class,Business,1,
+542,Boeing 777,3,January 2018,3.0,2,2.0,no,Gatwick to Tobago,3,Business Class,Solo Leisure,3,
+543,,1,January 2018,3.0,1,1.0,no,Warsaw to London Heathrow,1,Economy Class,Solo Leisure,1,1.0
+544,A320,4,December 2017,1.0,1,1.0,no,London to Dusseldorf,2,Economy Class,Solo Leisure,1,1.0
+545,Boeing 777-200,5,January 2018,5.0,5,2.0,yes,London to Bangkok,5,Business Class,Couple Leisure,5,2.0
+546,A320,5,December 2017,5.0,5,5.0,yes,London Gatwick to Rome Fiumicino,5,Business Class,Solo Leisure,5,
+547,Boeing 787-9,5,January 2018,5.0,3,4.0,yes,"San Jose, CA to London Heathrow",4,Business Class,Solo Leisure,4,
+548,,1,November 2017,2.0,2,1.0,no,New York to London,1,Economy Class,Family Leisure,1,1.0
+549,Boeing 777,4,January 2018,4.0,4,2.0,yes,Bangkok to Aberdeen via Heathrow,3,Economy Class,Solo Leisure,4,
+550,Boeing 747-400,5,January 2018,5.0,4,5.0,yes,Chicago to London Heathrow,5,First Class,Solo Leisure,5,
+551,Boeing 777-200,4,January 2018,4.0,3,3.0,no,Toronto to London,4,First Class,Couple Leisure,4,
+552,Boeing 747,2,January 2018,1.0,1,2.0,no,Las Vegas to Manchester via London,1,Economy Class,Solo Leisure,1,
+553,,1,January 2018,1.0,1,1.0,no,Amsterdam to London,1,Economy Class,Solo Leisure,1,1.0
+554,A380,5,December 2017,4.0,4,4.0,yes,London to Johannesburg,5,Economy Class,Solo Leisure,4,
+555,Boeing 747-400,1,November 2017,1.0,3,2.0,no,London to New York,1,Economy Class,Couple Leisure,2,1.0
+556,Boeing 747-400,4,December 2017,4.0,3,3.0,yes,New York to London,4,Economy Class,Family Leisure,3,
+557,,4,July 2017,2.0,3,2.0,no,Budapest to Philadelphia via London,2,Business Class,Family Leisure,3,1.0
+558,A380,4,December 2017,4.0,5,4.0,yes,London to Hong Kong,4,Premium Economy,Solo Leisure,3,
+559,Boeing 777,3,December 2017,1.0,1,3.0,no,London to Houston,3,First Class,Family Leisure,1,
+560,,1,December 2017,1.0,1,2.0,no,Las Vegas to London,1,Economy Class,Couple Leisure,1,1.0
+561,Boeing 747-400,1,December 2017,2.0,4,1.0,no,Dubai to London Heathrow,2,Economy Class,Solo Leisure,2,
+562,Boeing 747-400,1,December 2017,1.0,1,1.0,no,New York to Budapest via London,1,Economy Class,Solo Leisure,1,1.0
+563,,1,December 2017,1.0,2,1.0,no,Tokyo Narita to London Heathrow,2,Economy Class,Solo Leisure,1,1.0
+564,A320,1,October 2017,1.0,1,1.0,no,London to Pisa,1,Economy Class,Family Leisure,1,1.0
+565,A320,1,October 2017,1.0,1,1.0,no,London to Toulouse,1,Economy Class,Family Leisure,1,1.0
+566,Boeing 787-900,5,November 2017,4.0,4,4.0,yes,London to Santiago,5,Business Class,Solo Leisure,5,
+567,Boeing 777,4,November 2017,4.0,4,3.0,yes,London to Seattle,4,Premium Economy,Solo Leisure,4,
+568,Boeing 777,4,November 2017,3.0,4,3.0,yes,Seattle to London,4,Premium Economy,Solo Leisure,4,
+569,Boeing 747-400,2,December 2017,3.0,1,2.0,no,Vancouver to Edinburgh via London,2,Economy Class,Business,2,
+570,A319,2,November 2017,1.0,4,1.0,no,London to Berlin Tegel,2,First Class,Solo Leisure,2,
+571,Boeing 777-200,4,November 2017,2.0,3,2.0,no,London Heathrow to Dubai,3,First Class,Family Leisure,1,
+572,Boeing 777-200,2,November 2017,2.0,2,2.0,no,Dubai to London Heathrow,3,First Class,Family Leisure,2,
+573,Boeing 777-200,3,November 2017,2.0,4,4.0,no,Saint Lucia to London Gatwick,2,Business Class,Business,2,3.0
+574,Boeing 747-400,5,November 2017,5.0,4,5.0,yes,London Heathrow to New York JFK,4,Business Class,Couple Leisure,4,4.0
+575,,1,September 2017,1.0,1,1.0,no,Berlin to London City,1,Economy Class,Business,1,1.0
+576,Boeing 777,3,October 2017,2.0,2,1.0,no,London Heathrow to Doha,2,Business Class,Couple Leisure,3,1.0
+577,Boeing 777-300,1,November 2017,1.0,3,2.0,no,Singapore to Sydney,3,Economy Class,Couple Leisure,2,1.0
+578,Boeing 747,5,November 2017,1.0,3,1.0,no,Miami to London Heathrow,1,Economy Class,Couple Leisure,3,
+579,Boeing 747-400,1,November 2017,1.0,1,1.0,no,Prague to Washington via London,1,Business Class,Business,1,
+580,Boeing 747-400,5,November 2017,5.0,4,3.0,yes,Cape Town to London,4,First Class,Couple Leisure,4,
+581,Boeing 777-200 ER,4,September 2017,3.0,5,1.0,no,Bangkok to London Heathrow,2,Premium Economy,Business,3,
+582,Boeing 777-200,4,November 2017,5.0,2,4.0,yes,Tel Aviv to London,5,First Class,Solo Leisure,5,1.0
+583,Boeing 777-200,4,November 2017,4.0,4,1.0,yes,London to Tel Aviv,5,Business Class,Solo Leisure,5,1.0
+584,Boeing 787,3,November 2017,2.0,3,4.0,yes,Kuala Lumpur to Madrid via London,4,Economy Class,Family Leisure,4,
+585,,2,November 2017,1.0,1,1.0,no,Baltimore to Rome via London,1,Economy Class,Couple Leisure,1,1.0
+586,A380,4,November 2017,4.0,4,3.0,yes,London Heathrow to Johannesburg,4,Business Class,Couple Leisure,4,
+587,,1,November 2017,3.0,5,1.0,no,London Heathrow to Brussels,4,Economy Class,Solo Leisure,3,3.0
+588,,1,October 2017,1.0,3,3.0,no,London to San Francisco,1,Premium Economy,Solo Leisure,1,3.0
+589,Boeing 787,4,January 2017,2.0,2,3.0,no,London Heathrow to Seoul Incheon,3,Business Class,Solo Leisure,3,
+590,Boeing 787,3,December 2016,3.0,4,3.0,no,Seoul Incheon to London Heathrow,3,Business Class,Solo Leisure,3,
+591,Boeing 747,1,November 2017,1.0,3,1.0,no,Cape Town to London,1,Economy Class,Business,3,
+592,Boeing 747,5,October 2017,2.0,4,4.0,yes,London to Philadelphia,4,Business Class,Family Leisure,4,
+593,A321,4,August 2017,2.0,2,3.0,no,Düsseldorf to London,3,Economy Class,Business,1,
+594,Boeing 787-9,4,November 2017,3.0,4,3.0,yes,London to Santiago,3,Business Class,Couple Leisure,3,
+595,Boeing 747-400,3,November 2017,2.0,3,3.0,no,London to New York JFK,2,Business Class,Business,1,1.0
+596,Boeing 777-200,4,October 2017,2.0,5,1.0,no,London to Mumbai,3,Business Class,Couple Leisure,1,1.0
+597,,1,November 2017,1.0,1,1.0,no,Heathrow to Lyon,1,Economy Class,Business,1,1.0
+598,,1,September 2017,1.0,1,1.0,no,Heathrow to Dubai,1,Premium Economy,Solo Leisure,1,1.0
+599,Boeing 777,2,October 2017,1.0,2,1.0,no,Tokyo Haneda to Heathrow,1,Economy Class,Solo Leisure,3,1.0
+600,Boeing 787-8,2,October 2017,1.0,1,1.0,no,London to Toronto,2,Business Class,Business,2,3.0
+601,Boeing 747-400,4,October 2017,3.0,3,4.0,no,New York JFK to London,3,First Class,Business,2,1.0
+602,A380,4,July 2017,4.0,4,4.0,yes,Los Angeles to London Heathrow,4,Economy Class,Solo Leisure,4,
+603,A380,2,October 2017,2.0,3,2.0,no,Singapore to Nassau via Heathrow,3,Economy Class,Solo Leisure,5,
+604,A320,2,October 2017,1.0,2,1.0,no,London to Zurich,2,Economy Class,Business,1,1.0
+605,A319,3,October 2017,1.0,4,1.0,yes,Bari to Gatwick,3,Economy Class,Couple Leisure,4,1.0
+606,Boeing 747-400,1,September 2017,1.0,1,1.0,no,Las Vegas to London Heathrow,1,First Class,Business,1,
+607,A380,1,October 2017,2.0,5,1.0,no,Los Angeles to London Heathrow,4,Economy Class,Solo Leisure,2,1.0
+608,,1,October 2017,1.0,1,1.0,no,Malaga to Gatwick,2,Economy Class,Business,2,1.0
+609,Boeing 777,2,October 2017,1.0,2,1.0,no,London Heathrow to Bangkok,2,Economy Class,Solo Leisure,2,
+610,Boeing 747-400,2,September 2017,4.0,3,2.0,no,Gatwick to Orlando,3,Business Class,Couple Leisure,3,
+611,,3,October 2017,1.0,3,1.0,no,London Heathrow  to Madrid,3,Economy Class,Business,2,1.0
+612,,2,September 2017,2.0,3,3.0,no,Grand Cayman to London,1,Economy Class,Solo Leisure,2,1.0
+613,A380,3,October 2017,1.0,4,4.0,no,Los Angeles to Doha via London,2,Business Class,Business,3,
+614,Boeing 777-200 / 787-9 / A319/ 320,3,September 2017,1.0,4,3.0,yes,Toronto to Oslo via London,1,Premium Economy,Business,4,
+615,,1,September 2017,1.0,1,1.0,no,Geneva to London,1,Business Class,Business,1,1.0
+616,,3,September 2017,1.0,1,1.0,no,London to New York JFK,2,Business Class,Business,2,1.0
+617,Boeing 777,5,September 2017,5.0,4,5.0,yes,Port of Spain to Gatwick via St. Lucia,5,Economy Class,Business,4,
+618,Boeing 747-400,1,August 2017,1.0,1,1.0,no,London Heathrow to Chicago,1,First Class,Business,1,1.0
+619,,1,September 2017,1.0,3,1.0,no,London Heathrow to Kraków,2,Economy Class,Business,3,1.0
+620,Boeing 777,2,September 2017,2.0,3,2.0,no,"London Heathrow to Abuja, Nigeria",1,Economy Class,Business,2,2.0
+621,Boeing 777,4,September 2017,1.0,3,2.0,no,London to Tokyo Haneda,2,Economy Class,Business,1,
+622,A380,5,September 2017,3.0,2,3.0,no,London to Hong Kong,3,Premium Economy,Solo Leisure,3,
+623,,1,September 2017,1.0,3,1.0,no,Gatwick to Alicante,1,Economy Class,Family Leisure,1,3.0
+624,Boeing 777,1,September 2017,1.0,3,1.0,no,Dubai to London,3,Business Class,Business,1,
+625,A320,5,September 2017,4.0,2,2.0,yes,Zakinthos to London Heathrow,4,Business Class,Family Leisure,5,
+626,A320,5,August 2017,4.0,5,2.0,yes,London Heathrow to Zakinthos,4,Business Class,Family Leisure,5,
+627,A380,5,August 2017,3.0,4,4.0,yes,London to Vancouver,3,Economy Class,Family Leisure,3,
+628,Boeing 777-200ER,4,August 2017,2.0,5,4.0,yes,London to Sao Paulo,2,Economy Class,Business,4,
+629,Boeing 777,1,September 2017,1.0,4,2.0,no,Bangkok to London,4,Business Class,Solo Leisure,1,
+630,Boeing 747-400,2,August 2017,2.0,1,1.0,no,London to Cape Town,2,Business Class,Couple Leisure,2,
+631,A321,4,August 2017,2.0,3,1.0,no,London Heathrow to Bucharest,2,Economy Class,Business,2,1.0
+632,A321,4,August 2017,2.0,4,1.0,no,London to Bologna,4,Economy Class,Couple Leisure,4,
+633,A320,5,August 2017,4.0,4,1.0,yes,London Heathrow to Keflavik,3,Business Class,Business,4,1.0
+634,Boeing 777-300,3,August 2017,1.0,2,3.0,no,Tokyo Haneda to London,3,Economy Class,Couple Leisure,2,2.0
+635,Boeing 767,1,August 2017,1.0,1,1.0,no,Rome to London,1,Economy Class,Couple Leisure,1,1.0
+636,Boeing 747-400,4,August 2017,2.0,3,2.0,no,New York to Cape Town via London,2,First Class,Business,2,1.0
+637,Boeing 747,1,August 2017,1.0,2,1.0,no,London to Philadelphia,3,Business Class,Business,1,
+638,A320,1,August 2017,1.0,5,1.0,no,Salzburg to Gatwick,2,Economy Class,Solo Leisure,2,1.0
+639,,2,August 2017,1.0,2,1.0,no,Toulouse to London Heathrow,3,Economy Class,Couple Leisure,2,1.0
+640,A380,4,July 2017,1.0,2,2.0,no,Vancouver to London Heathrow,1,Business Class,Family Leisure,1,
+641,Boeing 747-400 / A380,5,August 2017,5.0,4,5.0,yes,Johannesburg to London,5,Premium Economy,Solo Leisure,4,3.0
+642,Boeing 747-400,2,August 2017,1.0,3,3.0,no,Oslo to Philadelphia via London,2,Business Class,Solo Leisure,2,
+643,A320,2,August 2017,1.0,3,1.0,no,Athens to London,1,Business Class,Family Leisure,1,1.0
+644,,4,August 2017,4.0,1,3.0,no,Cairo to Montreal via London,3,Economy Class,Solo Leisure,1,1.0
+645,A320,1,August 2017,1.0,2,1.0,no,Gatwick to Paphos,1,Economy Class,Solo Leisure,2,1.0
+646,A380,1,August 2017,1.0,4,2.0,no,Vancouver to London Heathrow,3,Economy Class,Solo Leisure,2,
+647,A380,1,July 2017,1.0,3,1.0,no,Vancouver to London,2,Premium Economy,Solo Leisure,3,
+648,Boeing 747,2,July 2017,1.0,1,1.0,no,London Heathrow to Accra,1,Business Class,Business,1,
+649,Boeing 777,3,July 2017,2.0,1,3.0,no,Gatwick to Orlando,4,Economy Class,Family Leisure,3,
+650,Boeing 777,2,July 2017,2.0,2,2.0,no,San Diego to London,1,Business Class,Solo Leisure,1,1.0
+651,,1,July 2017,1.0,1,1.0,no,Budapest to London,1,Economy Class,Business,1,1.0
+652,,2,July 2017,1.0,2,2.0,no,Bergen to London Heathrow,2,Economy Class,Business,1,1.0
+653,Boeing 777-300,5,July 2017,5.0,4,5.0,yes,Newcastle to Boston via London,5,Economy Class,Family Leisure,4,
+654,Boeing 747,1,July 2017,1.0,2,3.0,no,London Heathrow to New York JFK,2,Economy Class,Couple Leisure,1,
+655,A321 / Boeing 777,5,July 2017,4.0,3,,no,Barcelona to Boston via London,2,Business Class,Couple Leisure,1,1.0
+656,A321,3,July 2017,1.0,3,1.0,no,London to Madrid,2,Economy Class,Solo Leisure,4,1.0
+657,Boeing 747 400,3,July 2017,1.0,1,1.0,no,London Heathrow to Accra,1,Business Class,Business,1,
+658,Boeing 777-200,4,July 2017,4.0,4,4.0,yes,Gatwick to Bridgetown,4,Economy Class,Family Leisure,4,
+659,Boeing 777,2,July 2017,2.0,1,1.0,no,Dubai to London,4,Business Class,Business,2,
+660,Boeing 777-200,3,July 2017,3.0,3,3.0,yes,Mauritius to Gatwick,3,Business Class,Family Leisure,3,
+661,Boeing 747,1,July 2017,1.0,2,1.0,no,New York JFK to London Heathrow,1,Business Class,Business,1,
+662,A320,2,July 2017,1.0,3,1.0,yes,Athens to London Heathrow,3,Economy Class,Business,3,
+663,Boeing 747-400,5,April 2017,5.0,4,4.0,yes,London to Boston,4,Economy Class,Solo Leisure,5,
+664,Boeing 777,4,June 2017,1.0,3,2.0,no,Toronto to London Heathrow,1,Business Class,Business,1,
+665,Boeing 777,5,July 2017,5.0,5,4.0,yes,London to Tokyo,4,Economy Class,Solo Leisure,5,
+666,Boeing 777,3,June 2017,1.0,3,4.0,no,Gatwick to Mauritius,1,Economy Class,Couple Leisure,3,
+667,Boeing 777-200,3,July 2017,3.0,4,2.0,yes,Gatwick to Mauritius,3,Business Class,Family Leisure,3,
+668,Boeing 767,1,June 2017,1.0,4,1.0,no,London Heathrow to Larnaca,2,Economy Class,Family Leisure,3,1.0
+669,,2,July 2017,1.0,1,1.0,no,London to Barcelona,3,Economy Class,Couple Leisure,1,1.0
+670,Boeing 747-400,1,July 2017,1.0,2,1.0,no,Accra to London Heathrow,1,Business Class,Business,1,
+671,Boeing 787-9,5,June 2017,5.0,5,5.0,yes,Kuala Lumpur to London,5,First Class,Couple Leisure,5,
+672,Boeing 747,2,June 2017,1.0,1,1.0,no,Heathrow to Accra,1,Business Class,Business,1,
+673,Boeing 787,2,November 2016,3.0,2,4.0,no,Chennai to London,2,Business Class,Couple Leisure,2,
+674,Boeing 777,2,June 2017,1.0,2,1.0,no,Beijing to London Heathrow,1,Business Class,Business,2,
+675,A319 / A380 / Boeing 737,4,June 2017,4.0,4,4.0,yes,Leeds to Durban via London / Johannesburg,4,Premium Economy,Couple Leisure,4,
+676,A380-800,2,June 2017,2.0,4,4.0,no,Singapore to London Heathrow,3,Premium Economy,Solo Leisure,1,
+677,Boeing 777-200,3,May 2017,3.0,5,2.0,no,Toronto to London,3,Premium Economy,Solo Leisure,3,
+678,A320,1,June 2017,1.0,1,1.0,no,Dublin to Marseille via London,1,Economy Class,Business,1,1.0
+679,A380,1,June 2017,1.0,4,5.0,no,Johannesburg to London,4,Premium Economy,Business,2,
+680,Boeing 777-200,1,June 2017,1.0,1,1.0,yes,Antigua to Gatwick,1,Premium Economy,Couple Leisure,1,
+681,Boeing 777-200,2,June 2017,1.0,2,1.0,no,Gatwick to Antigua,1,Economy Class,Couple Leisure,2,
+682,E190,4,June 2017,1.0,2,1.0,no,London City to Milan,2,Business Class,Business,1,
+683,Boeing 747 & A319,4,June 2017,2.0,1,3.0,no,Boston to Geneva via Heathrow,2,Premium Economy,Couple Leisure,2,
+684,Boeing 747-400,3,June 2017,1.0,1,1.0,no,London to Boston,1,Premium Economy,Business,1,1.0
+685,A380,2,April 2017,2.0,2,3.0,no,London Heathrow to Sydney via Singapore,2,Premium Economy,Couple Leisure,1,
+686,Boeing 777-300,4,June 2017,4.0,5,4.0,yes,London Heathrow to Hong Kong,4,Premium Economy,Solo Leisure,2,
+687,Boeing 747,5,May 2017,2.0,1,2.0,no,London to Dubai,3,First Class,Family Leisure,1,
+688,A380,1,June 2017,1.0,4,3.0,no,London to Vancouver,2,Business Class,Business,1,
+689,Boeing 787-9,1,June 2017,1.0,3,4.0,no,Tokyo to London Heathrow,3,Premium Economy,Couple Leisure,2,
+690,Boeing 747,2,June 2017,1.0,3,1.0,no,Heathrow to Miami,1,Economy Class,Family Leisure,2,
+691,Boeing 777,1,May 2017,2.0,3,2.0,no,Lima to London Gatwick,3,Business Class,Couple Leisure,1,
+692,A380-800,1,June 2017,2.0,1,5.0,no,London to Johannesburg,1,Economy Class,Couple Leisure,1,
+693,,3,April 2017,1.0,3,1.0,no,Tampa to Tirana via Gatwick,2,Economy Class,Business,2,1.0
+694,Boeing 747-400,1,May 2017,1.0,1,4.0,no,Chicago to London Heathrow,1,Business Class,Business,1,1.0
+695,Boeing 787-9,2,May 2017,1.0,5,3.0,no,London Heathrow to Tokyo Narita,4,First Class,Couple Leisure,1,
+696,A320,3,May 2017,1.0,3,1.0,no,Luxembourg to London,2,Business Class,Couple Leisure,2,1.0
+697,A319,2,May 2017,1.0,2,1.0,no,Heathrow to Bergen,3,Economy Class,Family Leisure,1,1.0
+698,Boeing 787-8,5,May 2017,4.0,3,3.0,no,Seoul to London,4,Business Class,Business,3,
+699,,1,May 2017,2.0,3,4.0,no,Los Angeles to London,3,Business Class,Business,3,1.0
+700,Boeing 777,4,April 2017,4.0,3,2.0,yes,Gatwick to Lima,4,Business Class,Couple Leisure,4,
+701,Boeing 787-9,1,May 2017,1.0,5,5.0,yes,Kuala Lumpur to London,4,Economy Class,Solo Leisure,4,
+702,Boeing 787,5,May 2017,5.0,5,5.0,yes,London to Kuala Lumpur,4,Economy Class,Solo Leisure,5,
+703,Boeing 747-400,4,May 2017,1.0,1,1.0,no,London Heathrow to Miami,2,Business Class,Business,1,
+704,A321 / Boeing 777,3,May 2017,3.0,3,3.0,yes,Moscow to Houston via London,3,Economy Class,Solo Leisure,4,
+705,A319,4,April 2017,,4,1.0,no,London to Brussels,3,Economy Class,Business,2,1.0
+706,Boeing 747,5,May 2017,5.0,4,4.0,yes,London to San Francisco,4,Economy Class,Couple Leisure,4,
+707,A321 / Boeing 777-300,5,April 2017,4.0,3,4.0,yes,Amsterdam to Tokyo via London,4,Economy Class,Couple Leisure,4,
+708,Boeing 777-200,2,May 2017,2.0,4,2.0,no,Antigua to Gatwick,3,Business Class,Couple Leisure,3,
+709,Boeing 777-200,5,May 2017,5.0,5,3.0,yes,Orlando to Gatwick,5,Economy Class,Family Leisure,5,
+710,Boeing 787,4,May 2017,2.0,3,4.0,no,London to Santiago de Chile,3,Business Class,Business,3,
+711,Boeing 747-400,1,April 2017,1.0,4,3.0,no,London to Cape Town,1,Economy Class,Couple Leisure,1,
+712,Boeing 777,1,May 2017,1.0,1,1.0,no,Rio de Janeiro to London,1,Premium Economy,Couple Leisure,1,
+713,Boeing 777-300,4,April 2017,3.0,4,1.0,yes,Gatwick to Antigua,4,Business Class,Couple Leisure,4,
+714,A320,5,May 2017,3.0,4,2.0,yes,Berlin Tegel to London,3,Business Class,Business,4,1.0
+715,Boeing 777 200/300,1,April 2017,1.0,3,2.0,no,London Heathrow to Bangkok,2,Premium Economy,Business,2,
+716,A380 and Boeing 747,5,April 2017,3.0,5,4.0,no,London Heathrow to Miami,4,First Class,Couple Leisure,5,
+717,A380,4,May 2017,3.0,5,4.0,yes,Singapore to London Heathrow,3,Economy Class,Business,4,
+718,Boeing 747-400,3,April 2017,2.0,3,1.0,no,Glasgow to Chicago via Heathrow,1,Premium Economy,Couple Leisure,1,
+719,Boeing 777,3,May 2017,2.0,5,3.0,yes,Hong Kong to London Heathrow,3,Economy Class,Couple Leisure,3,
+720,Boeing 777-200,5,April 2017,4.0,5,4.0,yes,London Gatwick to Orlando,5,Economy Class,Family Leisure,5,
+721,A380,5,April 2017,5.0,4,5.0,yes,London to Boston,5,Economy Class,Family Leisure,4,
+722,Boeing 787-8,4,April 2017,1.0,3,2.0,no,Newark to London Heathrow,3,First Class,Couple Leisure,3,
+723,Boeing 777-200,4,April 2017,2.0,4,2.0,no,London to Newark,3,First Class,Couple Leisure,2,
+724,A380-800,5,February 2017,5.0,5,5.0,yes,Heathrow to San Francisco,4,Economy Class,Couple Leisure,5,
+725,Boeing 777,5,April 2017,5.0,5,5.0,yes,St Lucia to Gatwick,5,Business Class,Couple Leisure,4,
+726,,4,April 2017,4.0,3,3.0,yes,London Heathrow to Bangkok,4,Business Class,Couple Leisure,4,3.0
+727,A380,3,April 2017,2.0,4,3.0,no,Singapore to London Heathrow,4,Economy Class,Couple Leisure,3,
+728,Boeing 777,3,March 2017,1.0,2,1.0,no,Bangkok to London Heathrow,3,Economy Class,Solo Leisure,1,1.0
+729,,1,April 2017,1.0,1,1.0,no,Istanbul to London,1,Economy Class,Solo Leisure,1,1.0
+730,Boeing 787-8,4,March 2017,2.0,4,3.0,no,London to Seoul,1,Economy Class,Business,2,
+731,A380,5,April 2017,5.0,3,4.0,yes,Heathrow to San Francisco,5,Premium Economy,Couple Leisure,5,
+732,Boeing 777-300,4,April 2017,3.0,4,3.0,no,Buenos Aires to London,2,Business Class,Business,3,
+733,Boeing 777-200ER,5,April 2017,4.0,5,3.0,yes,London LGW to Lima,5,Business Class,Solo Leisure,4,
+734,Boeing 777,1,April 2017,1.0,4,1.0,no,Punta Cana to Gatwick,1,Business Class,Solo Leisure,2,
+735,Boeing 777-200 / 747-400,4,April 2017,1.0,3,3.0,no,London to Washington,3,Economy Class,Family Leisure,3,1.0
+736,Boeing 747-400,4,April 2017,1.0,4,4.0,yes,London to New York JFK,5,Economy Class,Family Leisure,4,
+737,Boeing 747-400,4,April 2017,3.0,5,4.0,yes,Stavanger to Las Vegas via London,4,Economy Class,Couple Leisure,4,
+738,,3,April 2017,1.0,2,5.0,no,London to Moscow,1,Economy Class,Solo Leisure,1,1.0
+739,A320,1,April 2017,1.0,1,1.0,no,LHR to IST,1,Business Class,Business,3,1.0
+740,Boeing 747-400,3,February 2017,1.0,3,2.0,no,Los Angeles to London Heathrow,1,Economy Class,Solo Leisure,1,
+741,Boeing 777,5,April 2017,5.0,5,4.0,yes,Sofia to Boston via London,5,Business Class,Family Leisure,5,
+742,B777-300ER / A320 / A380,5,March 2017,4.0,5,5.0,yes,Copenhagen to Hong Kong via London,5,Business Class,Couple Leisure,5,
+743,,2,April 2017,1.0,3,1.0,no,London to Larnaca,3,Economy Class,Solo Leisure,1,1.0
+744,,2,April 2017,1.0,1,3.0,no,London Heathrow to New York JFK,1,Economy Class,Family Leisure,1,1.0
+745,Boeing 747,2,March 2017,1.0,1,1.0,no,San Diego to London,1,Premium Economy,Business,1,
+746,Boeing 777-200,4,January 2017,2.0,5,2.0,no,Philadelphia to Edinburgh via Heathrow,2,Economy Class,Solo Leisure,4,
+747,Boeing 747-400,3,March 2017,1.0,2,1.0,no,London Heathrow to New York JFK,2,Business Class,Business,1,
+748,,1,November 2016,1.0,1,1.0,no,London to Singapore,1,Business Class,Couple Leisure,1,1.0
+749,Boeing 767,4,April 2017,4.0,1,1.0,no,Rome to London,1,Business Class,Couple Leisure,3,1.0
+750,Boeing 787-8,3,April 2017,1.0,2,2.0,no,London to New Orleans,1,Economy Class,Business,1,1.0
+751,A380,5,March 2017,2.0,4,4.0,no,Miami to London,3,Business Class,Business,2,
+752,Boeing 747,5,January 2017,1.0,3,2.0,no,Cape Town to Berlin via London,3,Premium Economy,Business,1,
+753,A320,3,March 2017,1.0,3,1.0,no,London Heathrow to Munich,3,Economy Class,Business,3,
+754,,5,February 2017,3.0,1,2.0,no,Gatwick to Cancun,2,Business Class,Couple Leisure,1,1.0
+755,,1,March 2017,1.0,1,1.0,no,Malaga to Gatwick,1,Economy Class,Couple Leisure,2,1.0
+756,Boeing 747,2,March 2017,2.0,3,5.0,no,London to New York,4,Economy Class,Business,3,
+757,Boeing 777,5,March 2017,4.0,5,4.0,no,Gatwick to Grenada,5,Business Class,Family Leisure,1,
+758,A320-200,3,March 2017,1.0,2,1.0,no,Lisbon to London,4,Economy Class,Business,1,
+759,Boeing 747,3,January 2017,1.0,1,1.0,no,Miami to London,1,Economy Class,Business,1,
+760,A380,1,March 2017,1.0,3,3.0,no,London to Los Angeles,3,Economy Class,Business,1,
+761,Boeing 777,1,March 2017,3.0,5,4.0,no,Mauritius to Gatwick,4,Business Class,Couple Leisure,2,
+762,A380,4,March 2017,1.0,3,2.0,no,London Heathrow to Hong Kong,4,Premium Economy,Couple Leisure,2,
+763,,4,March 2017,1.0,2,1.0,no,Frankfurt to Hong Kong via London,2,Business Class,Business,2,1.0
+764,Boeing 777,4,March 2017,2.0,3,2.0,no,Toronto to Berlin via London,1,Business Class,Couple Leisure,1,
+765,Boeing 787-9,1,March 2017,1.0,4,3.0,no,London Heathrow to Dubai,4,Economy Class,Couple Leisure,1,4.0
+766,Boeing 747-400,3,March 2017,3.0,3,3.0,no,London Heathrow to Johannesburg,1,Economy Class,Solo Leisure,2,
+767,Boeing 777,3,March 2017,1.0,3,2.0,no,London to Barbados,3,Economy Class,Couple Leisure,2,
+768,Boeing 777,2,February 2017,4.0,4,1.0,no,London Heathrow to Bangkok,3,Economy Class,Solo Leisure,3,1.0
+769,Boeing 777-300,3,February 2017,2.0,4,2.0,no,Beijing to London,4,Economy Class,Solo Leisure,3,
+770,,2,March 2017,1.0,1,2.0,no,Montreal to London Heathrow,3,Economy Class,Couple Leisure,1,2.0
+771,Boeing 747-400 / 777-200,3,March 2017,1.0,3,1.0,no,GOT to SFO/PHX via LHR,4,Economy Class,Family Leisure,2,
+772,Boeing 777,4,March 2017,3.0,1,3.0,no,Gatwick to Mauritius,3,Business Class,Couple Leisure,3,
+773,Boeing 747-400,5,March 2017,4.0,4,4.0,yes,San Diego to London,4,Business Class,Couple Leisure,4,
+774,Boeing 777,3,February 2017,2.0,5,2.0,no,Amsterdam to St Lucia via Gatwick,2,Business Class,Business,1,
+775,A320 / Boeing 777-200,2,March 2017,1.0,2,2.0,no,Edinburgh to Luanda via Heathrow,3,Economy Class,Business,1,1.0
+776,,1,March 2017,2.0,3,3.0,no,London to Las Vegas,1,Economy Class,Solo Leisure,1,1.0
+777,Boeing 777-200,1,February 2017,1.0,2,2.0,no,Gatwick to Bridgetown,1,Economy Class,Couple Leisure,1,
+778,Boeing 777,2,March 2017,3.0,1,3.0,no,Orlando to London,2,Business Class,Business,1,
+779,Boeing 787-9,3,March 2017,1.0,4,3.0,no,Newark to London,2,Business Class,Business,2,
+780,Boeing 747,3,February 2017,1.0,2,2.0,no,London to Chicago,2,Economy Class,Couple Leisure,1,
+781,Boeing 747-400,3,March 2017,2.0,3,2.0,no,LHR to YVR,3,Premium Economy,Solo Leisure,2,
+782,A380/A320,3,February 2017,2.0,3,2.0,no,Singapore to Venice via London,3,Economy Class,Solo Leisure,3,
+783,Boeing 747-400,3,March 2017,1.0,4,4.0,no,Cape Town to London,1,Economy Class,Couple Leisure,3,
+784,Boeing 747-400 & A320/321,3,February 2017,2.0,5,5.0,no,Kuwait to Edinburgh via London,5,Premium Economy,Solo Leisure,3,
+785,Boeing 777-200,5,March 2017,3.0,3,4.0,yes,St Lucia to Gatwick,5,Business Class,Couple Leisure,3,
+786,Boeing 747-400,5,March 2017,5.0,5,4.0,yes,Cape Town to London,5,Business Class,Couple Leisure,4,
+787,,3,February 2017,1.0,1,1.0,no,Malta to Gatwick,2,Economy Class,Solo Leisure,1,1.0
+788,Boeing 767,2,February 2017,3.0,2,2.0,no,London to Larnaca,1,Economy Class,Business,1,1.0
+789,Boeing 747-400,5,February 2017,3.0,4,5.0,yes,Chicago to London,5,Premium Economy,Business,4,
+790,Boeing 747-400,2,February 2017,1.0,2,1.0,no,Phoenix to London Heathrow,1,Economy Class,Couple Leisure,1,1.0
+791,Boeing 747-400,5,February 2017,5.0,5,4.0,yes,London to Chicago O'Hare,5,Business Class,Business,5,
+792,Boeing 777,2,February 2017,2.0,2,1.0,no,London to Mumbai,2,Premium Economy,Business,3,
+793,Boeing 777,3,February 2017,1.0,1,1.0,no,San Jose to London Gatwick,4,Business Class,Couple Leisure,1,1.0
+794,A380,4,December 2016,1.0,5,5.0,yes,London to Miami,4,Economy Class,Solo Leisure,5,
+795,A320,5,January 2017,2.0,5,3.0,yes,Berlin to London,5,Economy Class,Solo Leisure,2,
+796,A320,5,February 2017,1.0,3,1.0,no,Istanbul to London,3,Economy Class,Solo Leisure,2,
+797,Boeing 777-200,1,February 2017,1.0,3,1.0,no,London Heathrow to Chicago,1,First Class,Business,1,1.0
+798,Boeing 777,3,February 2017,2.0,4,2.0,yes,Gatwick to Cape Town,4,Economy Class,Couple Leisure,4,
+799,Boeing 787-8 / 787-9,4,February 2017,2.0,4,1.0,no,Toronto to London,3,Premium Economy,Solo Leisure,3,
+800,Boeing 747-400,5,February 2017,5.0,5,4.0,yes,London to Las Vegas,4,Economy Class,Couple Leisure,5,
+801,Boeing 747,3,February 2017,2.0,4,3.0,no,Accra to London Heathrow,2,Economy Class,Couple Leisure,3,
+802,Boeing 777,3,February 2017,4.0,2,4.0,no,London Gatwick to Mauritius,4,Business Class,Couple Leisure,3,
+803,Boeing 747-400,5,February 2017,4.0,4,3.0,yes,London to Vancouver,2,Economy Class,Solo Leisure,3,
+804,A380,5,February 2017,4.0,5,4.0,yes,Washington to London,5,Economy Class,Solo Leisure,5,
+805,Boeing 777,3,January 2017,1.0,3,1.0,no,Bangkok to London,1,Economy Class,Business,1,1.0
+806,Boeing 777,4,February 2017,4.0,4,4.0,yes,London to Hong Kong,4,Business Class,Business,4,
+807,Boeing 747,1,February 2017,1.0,1,1.0,no,Chicago to London Heathrow,1,Premium Economy,Business,1,1.0
+808,"Boeing 767, A319",2,February 2017,2.0,4,2.0,no,London Heathrow to Rome,2,Economy Class,Family Leisure,2,
+809,Boeing 777-200,5,February 2017,1.0,1,3.0,no,Dublin to Seattle via London Heathrow,2,Economy Class,Couple Leisure,3,
+810,Boeing 767-300,2,February 2017,1.0,2,1.0,no,London Heathrow to Athens,2,Economy Class,Business,2,
+811,Boeing 777,1,February 2017,1.0,3,4.0,no,Doha to London Heathrow,1,Business Class,Business,2,
+812,,3,December 2016,3.0,1,3.0,no,Vienna to Los Angeles via London,2,Economy Class,Solo Leisure,1,3.0
+813,A380,1,February 2017,1.0,2,1.0,no,Los Angeles to London,2,Economy Class,Business,1,
+814,,2,December 2016,1.0,3,3.0,no,London to New York,3,Economy Class,Family Leisure,1,3.0
+815,Boeing 777,5,February 2017,4.0,5,3.0,yes,TPA to ATH via LGW,4,Economy Class,Couple Leisure,5,
+816,A380,4,January 2017,3.0,4,3.0,yes,Hong Kong to London,4,Business Class,Solo Leisure,5,
+817,Boeing 777-200ER,3,January 2017,1.0,3,1.0,no,Gatwick to Barbados,2,Economy Class,Couple Leisure,2,1.0
+818,A380,5,January 2017,5.0,1,4.0,yes,LHR to SFO,5,Business Class,Couple Leisure,4,
+819,A380,5,January 2017,5.0,5,5.0,yes,LHR to IAD,3,Economy Class,Solo Leisure,5,
+820,Boeing 777,2,January 2017,2.0,1,2.0,no,LHR to HKG,1,Business Class,Solo Leisure,2,
+821,Boeing 777,5,January 2017,4.0,4,4.0,yes,London Gatwick to Mauritius,4,Economy Class,Couple Leisure,4,
+822,,2,January 2017,3.0,1,2.0,no,LAX to NCE via LHR,3,Economy Class,Couple Leisure,1,1.0
+823,Boeing 747,5,January 2017,5.0,5,3.0,yes,YVR to LHR,3,Economy Class,Solo Leisure,4,
+824,A320,1,January 2017,1.0,2,1.0,no,LHR to MXP,1,Economy Class,Business,3,1.0
+825,A380,2,September 2016,1.0,2,3.0,no,London to Johannesburg,4,Economy Class,Couple Leisure,2,
+826,A321,3,January 2017,1.0,3,1.0,no,MAD to LHR,2,Economy Class,Business,1,1.0
+827,Boeing 777,4,January 2017,4.0,4,4.0,yes,LHR to PHL,5,First Class,Solo Leisure,5,
+828,Boeing 747-400,5,January 2017,4.0,3,2.0,no,LHR to CPT,3,First Class,Couple Leisure,3,
+829,Boeing 747 / A380,3,January 2017,3.0,4,3.0,yes,SFO to JNB via LHR,4,Business Class,Solo Leisure,3,
+830,,5,January 2017,1.0,5,1.0,no,Larnaca to London Heathrow,3,Economy Class,Couple Leisure,1,1.0
+831,A320,5,August 2016,3.0,5,1.0,yes,London to Manchester,5,Economy Class,Couple Leisure,3,
+832,Boeing 787,4,October 2016,4.0,3,3.0,yes,Lisbon to San Jose via London,3,Business Class,Couple Leisure,4,
+833,Boeing 747-400,1,August 2016,1.0,1,1.0,no,LHR to PHX,1,Premium Economy,Business,1,
+834,Boeing 777,3,January 2017,2.0,1,2.0,no,Gatwick to Tampa,3,Business Class,Couple Leisure,1,
+835,Boeing 747,1,January 2017,1.0,2,1.0,no,Miami to London,2,Economy Class,Solo Leisure,1,1.0
+836,Boeing 747,2,January 2017,1.0,1,2.0,no,LHR to DXB,2,Economy Class,Business,2,
+837,Boeing 777,5,January 2017,1.0,1,1.0,no,BKK to CDG via LHR,2,Business Class,Couple Leisure,1,1.0
+838,,5,January 2017,5.0,5,5.0,yes,BKK to LHR,5,Economy Class,Solo Leisure,5,5.0
+839,Boeing 747-400,3,January 2017,3.0,4,3.0,no,LHR to CPT,3,Business Class,Couple Leisure,3,
+840,Boeing 787-9,1,November 2016,1.0,3,3.0,no,LHR to KUL,3,First Class,Solo Leisure,1,
+841,A320,4,January 2017,1.0,4,1.0,no,LED to LHR,3,Economy Class,Solo Leisure,2,
+842,Boeing 777,1,December 2016,1.0,1,1.0,no,LGW to BGI,1,Business Class,Couple Leisure,1,
+843,,3,January 2017,2.0,2,2.0,no,JFK to LHR,3,Economy Class,Solo Leisure,3,1.0
+844,Boeing 777,2,January 2017,4.0,4,4.0,yes,IAH to LHR,4,Business Class,Solo Leisure,4,
+845,Boeing 777,3,December 2016,1.0,3,1.0,no,LGW to CUN,3,Business Class,Couple Leisure,2,
+846,Boeing 777,2,January 2017,2.0,1,4.0,no,LHR to HKG,3,Business Class,Solo Leisure,1,
+847,A321,5,January 2017,3.0,3,3.0,yes,LHR to AMM,5,Business Class,Solo Leisure,4,
+848,,2,January 2017,1.0,2,2.0,no,LGW to BGI,1,Economy Class,Couple Leisure,2,1.0
+849,Boeing 787,3,December 2016,2.0,4,1.0,no,KUL to LHR,1,Economy Class,Couple Leisure,2,1.0
+850,Boeing 747,4,January 2017,3.0,4,3.0,no,MIA to LHR,1,Business Class,Family Leisure,1,
+851,Boeing 777,1,December 2016,1.0,1,1.0,no,SYD to LHR,1,Economy Class,Couple Leisure,1,1.0
+852,Boeing 777,4,January 2017,4.0,3,2.0,no,LHR to HKG,1,Business Class,Couple Leisure,1,
+853,Boeing 787-9,5,December 2016,4.0,4,4.0,yes,YYZ to LHR,3,Business Class,Solo Leisure,4,
+854,Boeing 777,3,December 2016,3.0,3,3.0,yes,LHR to LIM,3,Economy Class,Couple Leisure,3,
+855,Boeing 747-400,4,December 2016,2.0,1,1.0,no,ARN to DEN via LHR,3,Economy Class,Solo Leisure,2,
+856,Boeing 747,4,December 2016,2.0,4,3.0,no,CUN to LGW,3,Economy Class,Solo Leisure,2,
+857,Boeing 747-400,5,December 2016,4.0,4,4.0,yes,MAN to SAN via LHR,4,First Class,Couple Leisure,4,
+858,Boeing 777-200ER,4,November 2016,4.0,5,3.0,yes,LGW to TPA,3,Economy Class,Family Leisure,3,1.0
+859,A380,4,September 2016,4.0,5,5.0,yes,LAX to LHR,5,Premium Economy,Solo Leisure,5,
+860,Boeing 747-400,5,December 2016,2.0,4,3.0,yes,FRA to CPT via LHR,4,Business Class,Couple Leisure,4,
+861,Boeing 787,3,December 2016,2.0,1,3.0,no,BWI to LHR,2,Economy Class,Couple Leisure,1,
+862,Boeing 787,4,December 2016,2.0,4,5.0,no,BKK to LHR,4,Premium Economy,Couple Leisure,3,
+863,A320,1,December 2016,1.0,1,1.0,no,LHR to CPH,1,Economy Class,Business,1,1.0
+864,Boeing 777,3,December 2016,1.0,1,2.0,no,LGW to ANU,3,Economy Class,Couple Leisure,2,1.0
+865,Boeing 747-400,5,December 2016,4.0,3,5.0,yes,LHR to CPT,4,Economy Class,Solo Leisure,5,
+866,Boeing 777,1,December 2016,1.0,1,1.0,no,BKK to MAN via LHR,1,Premium Economy,Couple Leisure,1,
+867,Boeing 777-200,3,December 2016,2.0,4,1.0,no,UVF to LGW,1,First Class,Couple Leisure,1,
+868,Boeing 777,2,December 2016,2.0,2,1.0,no,LHR to EZE,1,Economy Class,Solo Leisure,2,
+869,A380,3,December 2016,3.0,3,1.0,yes,HKG to LHR,1,Economy Class,Solo Leisure,4,
+870,Boeing 777,1,October 2016,2.0,1,2.0,no,LHR to PHL,1,Premium Economy,Family Leisure,1,1.0
+871,Boeing 747,2,November 2016,2.0,3,2.0,no,DFW to BOM via LHR,3,Business Class,Business,3,
+872,Boeing 787-900,4,December 2016,3.0,4,3.0,yes,LHR to AUS,2,Business Class,Solo Leisure,2,
+873,A380,4,December 2016,4.0,4,3.0,yes,LHR to HKG,4,Business Class,Business,5,
+874,,1,December 2016,1.0,1,1.0,no,MAN to PVG via LHR,1,Premium Economy,Business,1,1.0
+875,Boeing 787,3,December 2016,1.0,2,2.0,no,CTU to LHR,2,Business Class,Business,1,1.0
+876,Boeing 777,2,December 2016,2.0,4,3.0,yes,LHR to SEA,3,Premium Economy,Solo Leisure,3,
+877,Boeing 777,3,November 2016,3.0,2,4.0,yes,SEA to LHR,4,Business Class,Solo Leisure,2,
+878,Boeing 777-200,2,December 2016,1.0,1,1.0,no,LGW to UVF,3,First Class,Couple Leisure,1,
+879,Boeing 777-300 / A380,2,December 2016,2.0,4,3.0,yes,SYD to LHR via SIN,3,Economy Class,Business,4,
+880,Boeing 747-400,1,November 2016,1.0,4,2.0,no,LHR to CPT,1,Economy Class,Couple Leisure,1,2.0
+881,Boeing 787,5,October 2016,3.0,5,4.0,yes,LHR to YYC,5,Premium Economy,Couple Leisure,4,4.0
+882,A320,2,December 2016,1.0,1,1.0,no,LHR to LIS,1,Business Class,Business,1,
+883,A380 800,2,November 2016,1.0,3,4.0,no,LHR to HKG,1,Economy Class,Couple Leisure,2,3.0
+884,Boeing 777,2,December 2016,2.0,4,1.0,no,LHR to BKK,2,Economy Class,Family Leisure,2,1.0
+885,Boeing 777,1,December 2016,2.0,1,2.0,no,SIN to  SYD,2,Business Class,Couple Leisure,1,
+886,A321,2,November 2016,1.0,3,1.0,no,LHR to ZRH,1,Business Class,Business,1,1.0
+887,A380,5,November 2016,5.0,3,4.0,yes,SIN to LHR,5,First Class,Business,4,
+888,Boeing 777-200ER,4,November 2016,4.0,4,3.0,yes,JFK to LHR,4,Economy Class,Solo Leisure,4,
+889,Boeing 777,5,November 2016,4.0,5,4.0,yes,LHR to YYZ,5,First Class,Business,5,
+890,Boeing 787-800,5,November 2016,5.0,3,3.0,no,MAA to LHR,5,Business Class,Couple Leisure,3,3.0
+891,A380,5,November 2016,5.0,5,4.0,yes,SIN to LHR,5,Premium Economy,Business,5,5.0
+892,Boeing 777,5,November 2016,5.0,3,4.0,yes,TLV to LHR,3,Economy Class,Couple Leisure,4,
+893,Boeing 747-400,3,April 2016,3.0,2,3.0,no,LHR to SFO,3,First Class,Solo Leisure,3,
+894,Boeing 777-200,4,October 2016,3.0,5,3.0,yes,LHR to YYZ,3,Economy Class,Family Leisure,4,
+895,Boeing 747-400,5,November 2016,2.0,3,5.0,no,DUS to BOS via LHR,3,Business Class,Business,2,
+896,A380,5,November 2016,5.0,5,4.0,yes,LHR to SIN,5,First Class,Business,5,
+897,,1,August 2016,1.0,1,1.0,no,LHR to DEL,1,Premium Economy,Business,1,1.0
+898,Boeing 737,4,November 2016,3.0,4,2.0,yes,LHR to KBP,3,Economy Class,Solo Leisure,4,2.0
+899,Boeing 747-400,5,November 2016,5.0,4,2.0,yes,LHR to LAS,5,First Class,Solo Leisure,4,
+900,Various,1,August 2016,2.0,2,1.0,no,BKK to LHR via LAD & ABV,1,Economy Class,Business,1,
+901,A321,2,November 2016,1.0,4,4.0,yes,LHR to DME,3,Economy Class,Business,4,
+902,Boeing 777,1,October 2016,1.0,4,2.0,no,LGW to BGI,2,Economy Class,Business,1,
+903,A380,3,November 2016,1.0,2,3.0,no,JNB to LHR,5,First Class,Couple Leisure,1,
+904,A380,4,November 2016,4.0,3,5.0,yes,MIA to LHR,5,Premium Economy,Couple Leisure,4,
+905,Boeing 787-900,5,November 2016,4.0,5,5.0,yes,LHR to BWI,5,Premium Economy,Couple Leisure,5,
+906,Boeing 787-800 / 777-200,4,November 2016,1.0,1,4.0,no,YYZ to LHR,4,First Class,Couple Leisure,2,
+907,A380,5,November 2016,4.0,5,4.0,yes,LHR to IAD,5,First Class,Couple Leisure,4,
+908,Boeing 747-400,5,November 2016,4.0,4,4.0,yes,DFW to LHR,5,First Class,Couple Leisure,4,
+909,A380-800,3,October 2016,1.0,2,1.0,no,LHR to MIA,3,Economy Class,Family Leisure,2,
+910,Boeing 787,4,November 2016,2.0,2,3.0,no,LHR to DXB,3,First Class,Family Leisure,2,
+911,Boeing 777,4,November 2016,1.0,2,3.0,no,DXB to LHR,3,First Class,Couple Leisure,2,
+912,Boeing 777-200,2,November 2016,1.0,2,1.0,no,LHR to BKK,2,Premium Economy,Solo Leisure,2,1.0
+913,Boeing 777,1,November 2016,1.0,1,3.0,no,LGW to BGI,1,Premium Economy,Couple Leisure,1,
+914,Boeing 747-400 / A380,1,November 2016,3.0,1,2.0,no,JNB to CLT via LHR,1,Economy Class,Solo Leisure,3,
+915,A380,5,October 2016,5.0,4,5.0,yes,LHR to LAX,5,First Class,Couple Leisure,5,
+916,Boeing 777,1,November 2016,1.0,3,1.0,no,MRU to LGW,2,Premium Economy,Couple Leisure,1,
+917,Boeing 787-9,4,October 2016,3.0,4,3.0,yes,LHR to KUL,3,First Class,Couple Leisure,3,
+918,Boeing 767-300,2,November 2016,1.0,2,1.0,no,LCA to LHR,2,Economy Class,Business,1,
+919,Boeing 777-200,1,November 2016,1.0,1,1.0,no,LGW to MCO,1,Business Class,Family Leisure,1,1.0
+920,Boeing 777,4,November 2016,1.0,3,3.0,yes,LHR to BKK,3,Economy Class,Solo Leisure,3,
+921,A380-800,5,October 2016,4.0,4,4.0,yes,LHR to LAX,4,Economy Class,Couple Leisure,4,
+922,Boeing 777,2,November 2016,1.0,5,2.0,no,UVF  to LGW,2,Premium Economy,Couple Leisure,1,
+923,,3,October 2016,2.0,4,4.0,no,LHR to BOS,2,Economy Class,Couple Leisure,2,3.0
+924,Boeing 747-400,3,October 2016,2.0,1,3.0,no,LHR to JFK,2,Economy Class,Couple Leisure,3,
+925,Boeing 787,5,October 2016,5.0,4,5.0,yes,ICN to LHR,4,Economy Class,Solo Leisure,4,
+926,A380 and Boeing 737-800,5,October 2016,4.0,3,4.0,yes,LHR to CPT via JNB,4,Economy Class,Solo Leisure,5,
+927,A380,3,October 2016,2.0,3,1.0,no,HKG to LHR,3,Business Class,Couple Leisure,2,
+928,Boeing 747-400,5,October 2016,5.0,5,5.0,yes,LHR to ORD,5,Business Class,Solo Leisure,5,
+929,Boeing 747-400,2,October 2016,1.0,2,2.0,no,YVR to LHR,3,Economy Class,Solo Leisure,2,
+930,A380,5,October 2016,4.0,5,1.0,yes,LHR to MIA,4,Premium Economy,Couple Leisure,4,
+931,"Boeing 747-400,  A320, A319",5,October 2016,4.0,5,5.0,yes,KWI to EDI via LHR,5,Economy Class,Solo Leisure,5,
+932,A319,1,October 2016,1.0,1,1.0,no,LHR to BRU,1,Business Class,Business,1,
+933,Boeing 777-200,3,October 2016,2.0,3,3.0,no,BKK to LHR,3,Business Class,Couple Leisure,3,
+934,Boeing 747 400,3,September 2016,4.0,5,2.0,yes,LHR to LAX,5,Business Class,Couple Leisure,4,
+935,Boeing 777-300,2,October 2016,1.0,3,3.0,no,HND to LHR,2,Premium Economy,Business,2,
+936,Boeing 747,4,October 2016,3.0,4,4.0,yes,LHR to BOS,4,First Class,Solo Leisure,4,3.0
+937,A380,1,October 2016,1.0,1,1.0,no,SFO to MAN via LHR,2,Economy Class,Couple Leisure,1,
+938,Boeing 777-200,1,October 2016,2.0,2,1.0,no,LHR to SFO,1,Economy Class,Couple Leisure,1,
+939,A380,4,October 2016,3.0,1,3.0,no,LHR to SIN,4,First Class,Business,1,
+940,"Boeing 747, A380",4,June 2016,2.0,4,3.0,no,JNB to ATH via LHR,3,First Class,Business,1,
+941,Boeing 787-9,1,August 2016,1.0,2,1.0,no,LHR to KUL,4,First Class,Solo Leisure,2,
+942,Boeing 787,4,October 2016,4.0,3,5.0,no,LHR to ICN,1,Economy Class,Couple Leisure,3,4.0
+943,Boeing 777 / A320,1,September 2016,1.0,1,3.0,no,SEA to PRG via LHR,3,Economy Class,Couple Leisure,2,
+944,A380,2,August 2016,1.0,2,1.0,no,SIN to LHR,1,Economy Class,Family Leisure,2,2.0
+945,A380,4,September 2016,4.0,2,3.0,no,IAD to NBO via LHR,2,First Class,Couple Leisure,3,
+946,,4,October 2016,1.0,2,1.0,no,DBV to LGW,2,Economy Class,Solo Leisure,2,1.0
+947,Boeing 787-8 / A320,5,October 2016,5.0,1,3.0,no,YYC to FCO via LHR,2,Business Class,Couple Leisure,1,
+948,Boeing 747-400,2,October 2016,1.0,3,1.0,yes,LHR to DEN,3,Economy Class,Solo Leisure,3,
+949,Boeing 777,4,July 2016,2.0,1,2.0,no,DXB to DUB via LHR,4,First Class,Business,1,1.0
+950,Boeing 747-400,2,October 2016,2.0,4,1.0,no,LAS to LHR,2,Economy Class,Couple Leisure,1,1.0
+951,Boeing 747,5,October 2016,4.0,2,4.0,yes,BOS to LHR,4,Economy Class,Solo Leisure,4,
+952,Boeing 777 / 747,4,May 2016,1.0,4,1.0,no,YYZ to LIS via LHR,3,Premium Economy,Business,3,
+953,Boeing 777,2,October 2016,3.0,2,3.0,no,LHR to ATL,3,Premium Economy,Couple Leisure,3,
+954,Boeing 777,4,September 2016,2.0,1,5.0,yes,BOS to LHR,3,Economy Class,Couple Leisure,4,
+955,A380,2,September 2016,1.0,3,1.0,no,JNB to LHR,1,Business Class,Couple Leisure,2,1.0
+956,Boeing 777,1,September 2016,1.0,3,2.0,no,LGW to MRU,3,Economy Class,Couple Leisure,2,
+957,,3,July 2016,3.0,1,1.0,no,GLA to ZRH via LCY,3,Economy Class,Couple Leisure,1,1.0
+958,Boeing 767,3,September 2016,3.0,2,1.0,no,LCA to LHR,3,Economy Class,Family Leisure,2,
+959,Boeing 777,3,September 2016,1.0,3,1.0,no,SJO to LGW,1,Economy Class,Family Leisure,3,1.0
+960,Boeing 777-200,3,September 2016,2.0,5,3.0,no,LHR to BKK,3,Business Class,Couple Leisure,3,
+961,Boeing 777,4,September 2016,4.0,5,4.0,yes,MEL to SIN via SYD,3,First Class,Couple Leisure,4,
+962,Boeing 787,3,September 2016,3.0,1,4.0,yes,SJC to LHR,4,Premium Economy,Solo Leisure,4,
+963,Boeing 747-400 / 777,2,September 2016,3.0,3,2.0,no,BAH to BOS via LHR,2,Business Class,Solo Leisure,3,
+964,Boeing 777,5,September 2016,4.0,3,4.0,yes,LGW to JFK,2,Business Class,Solo Leisure,4,
+965,A380,5,September 2016,3.0,4,4.0,yes,LHR to JNB,4,Economy Class,Couple Leisure,5,
+966,Boeing 777-300,5,September 2016,1.0,1,1.0,no,ATL to GVA via LHR,2,Premium Economy,Business,1,1.0
+967,Boeing 777-300,2,September 2016,1.0,1,4.0,no,ATL to LHR,1,Economy Class,Couple Leisure,1,
+968,Boeing 787,4,September 2016,4.0,3,4.0,yes,AUH to LHR,4,Premium Economy,Business,4,
+969,Boeing 777-200,2,September 2016,1.0,3,1.0,no,London to JFK,2,Premium Economy,Family Leisure,2,
+970,A380,2,September 2016,3.0,3,2.0,yes,LHR to JNB,3,Economy Class,Business,2,
+971,Boeing 787,1,September 2016,2.0,1,3.0,no,AUH to LHR,2,Economy Class,Family Leisure,3,
+972,Boeing 747,4,August 2016,1.0,1,4.0,no,LHR to SEA,3,Economy Class,Family Leisure,2,
+973,Boeing 767,1,September 2016,1.0,3,3.0,no,LHR to ATH,1,Business Class,Solo Leisure,1,
+974,,4,August 2016,3.0,2,1.0,no,LGW to BIO,3,Economy Class,Couple Leisure,2,1.0
+975,Boeing 767,5,September 2016,4.0,4,2.0,yes,LHR to IST,4,Business Class,Business,4,
+976,Boeing 747-400,1,September 2016,1.0,1,1.0,no,MIA to LHR,1,First Class,Couple Leisure,1,
+977,Boeing 747,3,September 2016,4.0,4,1.0,no,LHR to DEN,1,Economy Class,Business,2,
+978,Boeing 747-400,4,September 2016,4.0,5,2.0,yes,LHR to CPT,3,Economy Class,Solo Leisure,4,
+979,A380,1,August 2016,1.0,2,2.0,no,LHR to JNB,1,Economy Class,Couple Leisure,1,
+980,A320,4,September 2016,1.0,3,1.0,yes,LHR to LCA,3,Economy Class,Family Leisure,3,
+981,Boeing 777,4,August 2016,2.0,1,2.0,no,ATL to LHR,3,First Class,Business,1,
+982,A380-800,4,September 2016,3.0,1,4.0,no,LHR to HKG,4,Business Class,Solo Leisure,3,
+983,A320,1,August 2016,1.0,1,1.0,no,LHR to TXL,1,Business Class,Business,1,1.0
+984,,4,September 2016,3.0,1,4.0,no,LHR to SVO,4,Business Class,Business,1,3.0
+985,E-170,3,August 2016,3.0,3,2.0,no,LCY to GVA,4,Economy Class,Family Leisure,2,
+986,Boeing 767,5,August 2016,5.0,3,1.0,no,LHR to LCA,1,Business Class,Family Leisure,2,
+987,Boeing 787-900,5,August 2016,4.0,5,3.0,yes,LHR to PVG,2,Economy Class,Business,5,
+988,A380,1,August 2016,1.0,1,1.0,no,PRG to SIN via LHR,3,Economy Class,Family Leisure,3,
+989,Boeing 747-400,2,August 2016,2.0,2,1.0,no,PHX to LHR,1,Business Class,Family Leisure,1,1.0
+990,Boeing 767,4,August 2016,3.0,4,1.0,yes,BCN to LHR,3,Economy Class,Solo Leisure,3,
+991,Boeing 747-400,2,July 2016,1.0,5,3.0,no,"LHR to BOS, SEA to LHR",5,First Class,Family Leisure,1,1.0
+992,A320,2,August 2016,1.0,2,1.0,no,TXL to LHR,1,Economy Class,Business,1,
+993,A320,4,August 2016,1.0,2,1.0,no,WAW to LHR,3,Economy Class,Solo Leisure,2,
+994,Boeing 747-400,2,August 2016,3.0,1,4.0,no,MAN to JFK via LHR,2,Economy Class,Couple Leisure,3,2.0
+995,787,2,August 2016,3.0,1,5.0,no,LHR to YYC,5,Premium Economy,Family Leisure,1,2.0
+996,A320,2,July 2016,1.0,3,1.0,no,MLA to LHR,2,First Class,Family Leisure,3,
+997,Boeing 747-400,4,July 2016,3.0,5,4.0,yes,LHR to BOS,5,Business Class,Couple Leisure,4,
+998,,3,August 2016,3.0,1,1.0,no,NAP to LGW,3,Business Class,Couple Leisure,1,1.0
+999,A380,5,August 2016,5.0,3,5.0,yes,LHR to YVR,3,Economy Class,Business,3,
+1000,A380,3,August 2016,3.0,3,4.0,no,LHR to IAD,1,Business Class,Couple Leisure,3,
+1001,Boeing 777-200,4,August 2016,3.0,4,5.0,yes,BOS to SXF via LHR,3,Economy Class,Solo Leisure,3,
+1002,Boeing 777-236 ER,5,April 2016,5.0,3,3.0,yes,LGW to TPA,5,Business Class,Couple Leisure,4,
+1003,A319,1,August 2016,1.0,1,1.0,no,FRA to LHR,1,Business Class,Business,1,
+1004,,3,June 2016,3.0,4,1.0,no,DUB to SFO via PHL,1,Business Class,Couple Leisure,2,1.0
+1005,Boeing 747,3,August 2016,3.0,1,1.0,no,MEX to AMS via LHR,3,Premium Economy,Solo Leisure,1,1.0
+1006,Boeing 777-300ER,4,August 2016,4.0,4,4.0,yes,SIN to SYD,4,Economy Class,Solo Leisure,5,
+1007,A380,3,July 2016,3.0,3,3.0,yes,MIA to LHR,4,Business Class,Family Leisure,3,
+1008,Boeing 777,4,July 2016,4.0,4,4.0,yes,DOH to CDG via BAH / LHR,4,Premium Economy,Business,4,
+1009,Boeing 747-400,5,July 2016,1.0,4,2.0,yes,GRU to LHR,3,First Class,Solo Leisure,2,
+1010,Boeing 787,5,April 2016,3.0,3,3.0,yes,GLA to KUL via LHR,4,Business Class,Couple Leisure,3,
+1011,A380,3,July 2016,4.0,3,4.0,yes,LHR to MIA,5,Business Class,Family Leisure,4,
+1012,A320 / Boeing 787,4,July 2016,4.0,4,4.0,yes,ATH to KUL via LHR,4,Business Class,Business,4,4.0
+1013,A319,5,July 2016,5.0,5,4.0,yes,LBA to LHR,5,Economy Class,Couple Leisure,5,2.0
+1014,Boeing 777-200,3,July 2016,3.0,1,2.0,no,BLR to LHR,4,Economy Class,Business,3,1.0
+1015,Boeing 777-200,5,July 2016,5.0,5,5.0,yes,LHR to JFK,5,First Class,Solo Leisure,5,
+1016,Boeing 747-400,5,July 2016,4.0,5,5.0,yes,JFK to LHR,5,Business Class,Solo Leisure,5,
+1017,Boeing 787,5,July 2016,3.0,4,5.0,yes,LHR to YYC,4,Business Class,Couple Leisure,3,
+1018,Boeing 777,4,July 2016,4.0,1,3.0,no,LHR to BOS,4,First Class,Business,2,2.0
+1019,Boeing 777-200,2,July 2016,1.0,1,3.0,no,AMS to BKK via LHR,3,Business Class,Couple Leisure,1,
+1020,,3,July 2016,3.0,1,2.0,no,MXP to MEX via LHR,3,Economy Class,Solo Leisure,1,1.0
+1021,Boeing 747-400,1,July 2016,1.0,1,1.0,no,LHR to JFK,1,Economy Class,Business,1,2.0
+1022,Boeing 777 and Boeing 787,5,June 2016,3.0,5,5.0,no,LHR to BKK via KUL,5,Business Class,Solo Leisure,1,
+1023,Boeing 787,5,July 2016,5.0,5,5.0,no,KUL to LHR,5,Business Class,Business,1,5.0
+1024,A380,1,March 2016,2.0,1,2.0,no,JNB to LHR,1,Business Class,Business,1,
+1025,,5,August 2015,5.0,4,5.0,yes,YYZ to EBB via LHR,4,Economy Class,Solo Leisure,3,4.0
+1026,,1,July 2016,1.0,1,1.0,no,KUL to LHR,1,Premium Economy,Business,1,1.0
+1027,A320,5,June 2016,1.0,2,1.0,no,ZRH to LHR,1,Business Class,Business,3,1.0
+1028,Boeing 777,5,June 2016,4.0,4,5.0,yes,LGW to UVF,4,First Class,Couple Leisure,4,
+1029,,5,April 2016,5.0,2,5.0,yes,MAN to JNB via LHR,4,Economy Class,Couple Leisure,4,3.0
+1030,A380,5,June 2016,4.0,3,4.0,yes,LHR to YVR,4,Business Class,Couple Leisure,4,
+1031,,1,June 2016,1.0,1,1.0,no,MRS to LHR,3,Economy Class,Solo Leisure,1,1.0
+1032,A380,2,June 2016,2.0,2,4.0,no,LAX to FCO via LHR,1,Economy Class,Couple Leisure,1,
+1033,A380 and Boeing 767,5,June 2016,4.0,1,3.0,no,JNB to EDI via LHR,4,First Class,Couple Leisure,1,
+1034,Boeing 777,1,June 2016,4.0,2,3.0,no,LHR to BKK,4,Economy Class,Solo Leisure,3,3.0
+1035,Boeing 787,5,June 2016,5.0,5,5.0,yes,LHR to EWR,5,Premium Economy,Couple Leisure,5,
+1036,,5,June 2016,4.0,4,3.0,yes,NCL to LAS via LHR,2,Economy Class,Family Leisure,4,3.0
+1037,Boeing 777-200ER,5,June 2016,5.0,5,5.0,yes,JFK to LGW,5,Economy Class,Solo Leisure,5,
+1038,,4,June 2016,2.0,1,2.0,no,LHR to MCI via ORD,4,First Class,Family Leisure,1,3.0
+1039,Boeing 777,5,May 2016,4.0,5,4.0,yes,BGI to LGW,4,Business Class,Solo Leisure,4,
+1040,Boeing 747,1,June 2016,1.0,1,1.0,no,LHR to MIA,1,Economy Class,Couple Leisure,1,1.0
+1041,Boeing 777-200,2,June 2016,1.0,4,3.0,no,PHL to LHR,5,First Class,Solo Leisure,1,
+1042,A380,3,June 2016,2.0,4,4.0,yes,LHR to SIN,4,Premium Economy,Solo Leisure,3,
+1043,Boeing 777-200,5,June 2016,1.0,5,4.0,yes,LHR to BOS,4,Business Class,Couple Leisure,4,
+1044,Boeing 777,2,May 2016,3.0,5,3.0,no,SIN to SYD,3,Business Class,Couple Leisure,3,
+1045,"A320, A380",4,June 2016,3.0,1,5.0,no,BCN to SFO via LHR,5,First Class,Solo Leisure,3,1.0
+1046,Boeing 777,5,June 2016,4.0,4,2.0,yes,UVF to LGW,3,Business Class,Couple Leisure,3,
+1047,Boeing 777,3,May 2016,3.0,1,2.0,no,LGW to UVF,4,Premium Economy,Couple Leisure,3,
+1048,A320 / Boeing 777,5,June 2016,4.0,5,4.0,yes,MAN to PHL via LHR,5,First Class,Solo Leisure,5,
+1049,Boeing 747-400,4,June 2016,4.0,1,3.0,yes,JFK to LHR,3,First Class,Couple Leisure,3,
+1050,Boeing 747-400,2,May 2016,2.0,2,1.0,no,LHR to MIA,2,Economy Class,Family Leisure,3,1.0
+1051,,3,May 2016,3.0,3,3.0,no,LGW to LIM,4,Business Class,Couple Leisure,3,3.0
+1052,Boeing 747,5,May 2016,1.0,5,5.0,yes,JFK to LHR,5,Economy Class,Solo Leisure,4,
+1053,Boeing 747-400,4,May 2016,4.0,4,3.0,yes,LHR to DXB,3,Economy Class,Solo Leisure,4,
+1054,A380,4,May 2016,4.0,3,5.0,yes,LHR to SFO,5,Premium Economy,Solo Leisure,5,
+1055,Boeing 777-200,5,May 2016,4.0,1,1.0,yes,LGW to PUJ,3,Economy Class,Couple Leisure,3,
+1056,Boeing 777,4,May 2016,4.0,4,4.0,yes,LGW to BDA,4,Economy Class,Couple Leisure,4,
+1057,Boeing 787,5,March 2016,5.0,5,5.0,yes,LHR to YYZ,5,Business Class,Solo Leisure,4,
+1058,Boeing 777-300,4,May 2016,4.0,3,2.0,yes,BKK to LHR,3,Economy Class,Solo Leisure,4,
+1059,A380,3,May 2016,3.0,4,4.0,no,SFO to LHR,4,Business Class,Business,2,3.0
+1060,A321 / Boeing 747-400,4,May 2016,4.0,4,2.0,yes,AMS to GRU via LHR,4,Economy Class,Couple Leisure,5,
+1061,Boeing 747-400,4,May 2016,3.0,5,2.0,yes,JFK to LHR,4,Economy Class,Couple Leisure,3,
+1062,Boeing 747-400,4,May 2016,3.0,4,2.0,yes,LHR to JFK,4,Business Class,Couple Leisure,3,
+1063,Boeing 777,4,May 2016,4.0,4,2.0,yes,BGI to LGW,4,Business Class,Couple Leisure,4,
+1064,Boeing 777,5,May 2016,4.0,4,3.0,yes,LGW to BGI,4,Business Class,Couple Leisure,4,
+1065,,1,May 2016,1.0,3,1.0,no,LGW to CTA,2,Economy Class,Solo Leisure,2,1.0
+1066,Boeing 777,3,May 2016,4.0,5,3.0,yes,LGW to MCO,4,Economy Class,Family Leisure,4,
+1067,Boeing 777-200,4,May 2016,1.0,4,1.0,no,BKK to LHR,3,Premium Economy,Family Leisure,2,
+1068,Boeing 777,5,May 2016,4.0,4,3.0,yes,PVG to LHR,4,Economy Class,Solo Leisure,5,
+1069,Boeing 747-400,4,May 2016,3.0,4,2.0,yes,LHR to DEN,4,Premium Economy,Solo Leisure,4,
+1070,A320 / Boeing 777,2,May 2016,2.0,4,1.0,yes,PSA to ORD via LHR,2,Economy Class,Solo Leisure,3,
+1071,Boeing 787,4,May 2016,3.0,4,4.0,no,LHR to Seoul,1,Business Class,Business,3,
+1072,Boeing 787,1,May 2016,1.0,3,2.0,no,KUL to LHR,1,Economy Class,Solo Leisure,2,2.0
+1073,Boeing 777-200,4,March 2016,5.0,5,4.0,yes,YYZ to LHR,3,First Class,Couple Leisure,5,
+1074,,4,April 2016,1.0,4,2.0,no,ACC to LHR,2,Economy Class,Solo Leisure,4,2.0
+1075,Boeing 747-400,2,April 2016,3.0,2,3.0,no,LHR to MIA,3,Economy Class,Couple Leisure,4,
+1076,A319,2,April 2016,1.0,1,1.0,no,OSL to LHR,1,Business Class,Business,1,
+1077,Boeing 747-400,3,April 2016,3.0,3,3.0,yes,DXB to LHR,3,Economy Class,Business,4,
+1078,Boeing 777-200,4,April 2016,4.0,4,3.0,yes,LHR to SFO,3,Economy Class,Solo Leisure,4,
+1079,Boeing 747-400 / A320,5,April 2016,5.0,4,5.0,yes,ORD to AMS via LHR,5,Business Class,Family Leisure,5,
+1080,Boeing 747,2,April 2016,1.0,2,1.0,no,MAN to DXB via LHR,1,Economy Class,Family Leisure,2,
+1081,Boeing 787,4,March 2016,5.0,5,4.0,yes,LHR to YYC,5,Premium Economy,Couple Leisure,4,1.0
+1082,Boeing 747,5,April 2016,5.0,5,3.0,yes,LHR to YYZ,4,First Class,Couple Leisure,5,
+1083,A380,2,April 2016,1.0,3,3.0,no,AMS to HKG via LHR,1,Economy Class,Business,2,1.0
+1084,A380,5,March 2016,5.0,5,5.0,yes,LHR to HKG,5,First Class,Solo Leisure,4,
+1085,Boeing 747-400,5,April 2016,5.0,4,3.0,yes,LHR to GRU,4,Business Class,Couple Leisure,4,
+1086,Boeing 777,2,April 2016,2.0,2,2.0,no,LHR to NBO,3,Economy Class,Business,2,2.0
+1087,Boeing 777,2,April 2016,2.0,3,3.0,no,NBO to LHR,3,Premium Economy,Business,2,
+1088,,3,April 2016,1.0,3,1.0,no,YVR to BCN via LHR,1,Economy Class,Couple Leisure,2,1.0
+1089,Boeing 777-200,2,April 2016,2.0,1,4.0,no,DOH to LHR via BAH,5,First Class,Business,2,1.0
+1090,A380,4,February 2016,2.0,2,4.0,no,LHR to JNB,3,Business Class,Business,3,2.0
+1091,A320 / A380,3,April 2016,1.0,2,3.0,no,MAN to LAX via LHR,1,Economy Class,Family Leisure,1,
+1092,Boeing 747,5,April 2016,5.0,5,4.0,yes,LHR to JFK,3,Economy Class,Couple Leisure,3,
+1093,Boeing 777 and Boeing 787,5,April 2016,4.0,4,4.0,yes,LHR to IAH,4,Business Class,Solo Leisure,5,
+1094,Boeing 777,4,February 2016,4.0,3,3.0,yes,LHR to PEK,4,Business Class,Solo Leisure,4,
+1095,Boeing 747,5,April 2016,5.0,5,2.0,yes,YVR to CDG via LHR,2,Economy Class,Solo Leisure,5,
+1096,A380,4,March 2016,3.0,3,3.0,yes,HKG to LHR,4,Premium Economy,Solo Leisure,5,
+1097,A380-800,5,March 2016,5.0,5,5.0,yes,SFO to LHR,5,Business Class,Couple Leisure,5,
+1098,Boeing 747-400,5,May 2015,4.0,4,2.0,yes,PEK to LHR,5,Premium Economy,Solo Leisure,5,
+1099,A380,5,March 2016,4.0,4,5.0,yes,LHR to LAX,5,Premium Economy,Couple Leisure,4,
+1100,A320,4,April 2016,4.0,3,3.0,yes,LHR to ATH,4,Economy Class,Family Leisure,4,
+1101,,4,April 2016,4.0,3,3.0,no,MRS to YUL via LHR,3,Economy Class,Solo Leisure,5,1.0
+1102,Boeing 767-300,4,April 2016,5.0,2,1.0,yes,LHR to LCA,3,Business Class,Family Leisure,3,
+1103,Boeing 787 / A320,5,March 2016,5.0,5,5.0,yes,YYZ to TXL via LHR,5,Business Class,Couple Leisure,4,
+1104,Boeing 777,5,March 2016,5.0,5,5.0,yes,TLV to LHR,5,Business Class,Couple Leisure,5,
+1105,A380 / Boeing 747-400,4,March 2016,3.0,4,3.0,yes,IAD to DXB via LHR,3,Business Class,Business,3,
+1106,Boeing 747-400,2,March 2016,1.0,4,1.0,no,MIA to MAN via LHR,3,Economy Class,Solo Leisure,1,
+1107,Boeing 777,1,March 2016,1.0,2,1.0,no,UVF to LGW,2,Premium Economy,Couple Leisure,1,
+1108,Boeing 787,4,March 2016,4.0,4,4.0,yes,BCN to SEL via LHR,3,Economy Class,Solo Leisure,5,
+1109,Boeing 777-200,5,March 2016,4.0,4,4.0,yes,LHR to IAH,3,Economy Class,Couple Leisure,4,
+1110,Boeing 747-400,4,March 2016,3.0,4,3.0,no,LHR to DEN,3,First Class,Couple Leisure,2,1.0
+1111,Boeing 747-400 /A380,4,March 2016,4.0,4,2.0,yes,SEA to JNB via LHR,3,Economy Class,Solo Leisure,4,
+1112,Boeing 787,5,March 2016,1.0,4,4.0,yes,AUH to LHR,2,Economy Class,Solo Leisure,4,
+1113,Boeing 747-400,5,March 2016,5.0,5,5.0,yes,ORD to LHR,5,First Class,Solo Leisure,5,
+1114,Boeing 777,5,March 2016,1.0,3,3.0,no,PHL to LHR,1,Economy Class,Couple Leisure,1,
+1115,Boeing 777,5,March 2016,1.0,3,3.0,no,PHL to LHR,1,Economy Class,Couple Leisure,1,
+1116,Boeing 777-300,2,January 2016,1.0,2,1.0,no,SIN to LHR,1,Premium Economy,Solo Leisure,1,
+1117,Boeing 777,5,March 2016,4.0,5,3.0,yes,LHR to NBO,3,Premium Economy,Couple Leisure,4,
+1118,"A320, A380",4,January 2016,4.0,4,5.0,yes,ATH to LAX via LHR,2,Economy Class,Solo Leisure,3,
+1119,"A320, Boeing 777",5,March 2016,5.0,5,5.0,yes,HEL to BOM via LHR,5,Economy Class,Couple Leisure,5,
+1120,Boeing 777,3,March 2016,3.0,4,2.0,yes,PUJ to LGW,2,Premium Economy,Couple Leisure,3,
+1121,A321,2,March 2016,1.0,5,3.0,no,LHR to SVO,1,Economy Class,Business,2,
+1122,A380,4,November 2015,3.0,4,4.0,no,MIA to LHR,1,Premium Economy,Couple Leisure,2,
+1123,Boeing 777,3,March 2016,3.0,1,3.0,no,HKG to LHR,3,Premium Economy,Business,1,
+1124,A380,4,September 2015,5.0,4,5.0,yes,EDI to SFO via LHR,5,Premium Economy,Couple Leisure,5,
+1125,Boeing 777,4,March 2016,3.0,3,5.0,yes,LHR to SIN,5,First Class,Couple Leisure,5,
+1126,Boeing 777,4,February 2016,3.0,4,4.0,yes,LHR to GIG,4,Premium Economy,Couple Leisure,3,4.0
+1127,Boeing 747-400 / A380,1,February 2016,1.0,1,1.0,no,LHR to ORD,1,First Class,Business,1,1.0
+1128,Boeing 767,5,March 2016,4.0,5,4.0,yes,LHR to ATH,4,Economy Class,Solo Leisure,5,
+1129,Boeing 747-400,4,February 2016,4.0,3,4.0,yes,CPH to ACC via LHR,4,Economy Class,Business,5,
+1130,Boeing 777-200,5,February 2016,4.0,4,4.0,yes,EDI to PHL via LHR,4,Economy Class,Couple Leisure,4,
+1131,Boeing 787,5,February 2016,4.0,4,4.0,yes,LHR to MAA,5,Business Class,Business,4,
+1132,Boeing 777-200,5,March 2016,4.0,5,4.0,yes,JFK to LHR,4,Business Class,Solo Leisure,4,
+1133,Boeing 777-300ER,4,February 2016,3.0,4,4.0,yes,LHR to JFK,4,Economy Class,Solo Leisure,4,
+1134,Boeing 777,5,March 2016,2.0,3,2.0,no,JFK to LHR,2,Economy Class,Solo Leisure,3,
+1135,Boeing 747-400,5,February 2016,4.0,4,4.0,yes,ACC to ZRH via LHR,3,Economy Class,Couple Leisure,5,
+1136,A320,4,February 2016,1.0,4,1.0,no,OTP to LHR,1,Business Class,Solo Leisure,2,
+1137,A380,5,February 2016,3.0,1,3.0,yes,IAD to LHR,5,Economy Class,Business,4,1.0
+1138,Boeing 747,2,February 2016,2.0,4,1.0,no,LHR to CPT,3,Premium Economy,Couple Leisure,1,
+1139,Boeing 777,1,January 2016,3.0,1,2.0,no,MAN to GIG via LHR,1,First Class,Couple Leisure,2,
+1140,"Boeing 777, A320, A380",5,February 2016,3.0,5,4.0,yes,LAX to AMS via LHR,4,Business Class,Couple Leisure,5,
+1141,Boeing 777,5,January 2016,3.0,2,2.0,yes,LGW to PUJ,4,Economy Class,Couple Leisure,5,
+1142,Boeing 777,1,February 2016,3.0,3,3.0,no,LGW to CUN,4,Premium Economy,Solo Leisure,3,
+1143,Boeing 787-9,4,February 2016,3.0,4,3.0,no,KUL to LHR,1,First Class,Couple Leisure,1,
+1144,Boeing 747,1,February 2016,1.0,2,1.0,no,LHR to YVR,1,Economy Class,Family Leisure,1,
+1145,Boeing 787 / 777,3,February 2016,2.0,2,2.0,no,SEA to TLV via LHR,3,Business Class,Business,2,
+1146,Boeing 747,3,January 2016,1.0,1,2.0,no,YVR to LIS via LHR,3,Economy Class,Family Leisure,1,3.0
+1147,A380,5,December 2015,5.0,4,4.0,yes,LHR to MIa,5,First Class,Couple Leisure,4,
+1148,Boeing 747 400,5,February 2016,5.0,3,3.0,yes,EDI to LAS via LHR,4,Business Class,Family Leisure,4,
+1149,Boeing 777,3,February 2016,3.0,2,2.0,no,LHR to DXB,3,Business Class,Family Leisure,3,
+1150,Boeing 747-400,5,February 2016,4.0,4,3.0,yes,LHR to BOM,4,Business Class,Business,5,
+1151,Boeing 777,5,November 2015,5.0,4,5.0,yes,ATL to LHR,5,First Class,Solo Leisure,4,
+1152,Boeing 777-200,4,December 2015,4.0,3,3.0,yes,DOH to LHR via BAH,4,Business Class,Business,4,
+1153,,3,February 2016,2.0,1,1.0,no,ZRH to LCY,3,Economy Class,Family Leisure,1,1.0
+1154,Boeing 747-400,4,January 2016,2.0,4,2.0,no,LHR to GRU,3,Business Class,Business,3,
+1155,Boeing 747-400,1,February 2016,2.0,3,3.0,no,YVR to LHR,2,Economy Class,Family Leisure,2,
+1156,"A380, Boeing 747 and Boeing 777",5,January 2016,4.0,5,3.0,yes,JNB to JFK via LHR,4,Economy Class,Solo Leisure,4,
+1157,Boeing 777-200,4,February 2016,3.0,3,4.0,no,GIG to LHR,3,First Class,Couple Leisure,3,
+1158,A380,4,January 2016,4.0,3,3.0,no,LHR to SIN,3,First Class,Couple Leisure,3,
+1159,"A320, A380, Boeing 777-300",3,January 2016,4.0,4,4.0,yes,WAW to HKG via LHR,3,Economy Class,Couple Leisure,4,
+1160,Boeing 777,5,January 2016,5.0,4,5.0,yes,LHR to EWR,5,First Class,Business,4,
+1161,A318,5,October 2015,1.0,5,2.0,yes,LCY to JFK,3,Business Class,Solo Leisure,5,
+1162,Boeing 777-200,2,January 2016,1.0,1,2.0,no,LHR to BOS,2,Economy Class,Solo Leisure,2,
+1163,Boeing 777,5,January 2016,4.0,4,3.0,yes,LHR to GIG,4,Business Class,Couple Leisure,4,
+1164,Boeing 777,1,January 2016,1.0,1,1.0,no,LGW to MLE,1,Business Class,Couple Leisure,1,1.0
+1165,A380,2,January 2016,2.0,1,2.0,no,JNB to LHR,3,Business Class,Couple Leisure,1,1.0
+1166,Boeing 747-400,5,December 2015,5.0,4,5.0,yes,GLA to JFK via LHR,4,Economy Class,Couple Leisure,5,
+1167,Boeing 747-400,5,December 2015,5.0,5,5.0,yes,KWI to EDI via LHR,5,Premium Economy,Solo Leisure,5,
+1168,Boeing 747-400,3,January 2016,1.0,4,1.0,no,YVR to LHR,3,Premium Economy,Solo Leisure,2,1.0
+1169,A380,1,January 2016,1.0,1,1.0,no,MIA to MAN via LHR,2,Premium Economy,Family Leisure,1,
+1170,Boeing 777,2,December 2015,1.0,3,1.0,no,BKK to LHR,2,Economy Class,Couple Leisure,2,1.0
+1171,A380,5,September 2015,3.0,4,3.0,yes,HKG to LHR,4,Economy Class,Solo Leisure,4,
+1172,Boeing 747,3,February 2015,4.0,4,4.0,yes,CPT to LHR,4,Business Class,Solo Leisure,4,
+1173,A380,5,January 2016,5.0,4,5.0,yes,LHR to SFO,4,Economy Class,Solo Leisure,4,
+1174,,1,September 2015,1.0,3,1.0,no,LHR to LAS,2,Economy Class,Couple Leisure,2,1.0
+1175,Boeing 777,3,January 2016,2.0,3,3.0,yes,BKK to LHR,2,Business Class,Couple Leisure,3,1.0
+1176,Boeing 777-300,4,January 2016,4.0,3,4.0,yes,LHR to JED,3,Economy Class,Solo Leisure,4,
+1177,,1,October 2015,1.0,1,1.0,no,LHR to JFK,3,Business Class,Business,2,1.0
+1178,Boeing 777-200,3,December 2015,3.0,3,2.0,no,iAH to LHR,3,Premium Economy,Family Leisure,2,
+1179,Boeing 777-200,2,December 2015,2.0,4,4.0,no,YYZ to LHR,2,Business Class,Couple Leisure,4,
+1180,Boeing 747,5,January 2016,4.0,4,4.0,yes,LHR to MEX,4,First Class,Couple Leisure,5,
+1181,Boeing 777,3,January 2016,4.0,5,4.0,yes,MUC to JFK via LHR,3,Premium Economy,Couple Leisure,4,
+1182,A380,5,December 2015,4.0,3,1.0,no,JNB to DUB via LHR,3,Economy Class,Couple Leisure,4,
+1183,A320 / Boeing 787,4,November 2015,4.0,4,5.0,yes,TLV to PHL via LHR,3,Economy Class,Solo Leisure,1,
+1184,Boeing 787,5,January 2016,4.0,5,4.0,yes,NCE to YUL via LHR,5,Economy Class,Family Leisure,5,
+1185,Boeing 777,1,January 2016,1.0,2,1.0,no,BKK to LHR,1,Economy Class,Solo Leisure,1,
+1186,Boeing 747,3,June 2015,3.0,4,2.0,no,YVR-LIS via LHR,3,Economy Class,Solo Leisure,3,
+1187,Boeing 777,4,December 2015,4.0,5,4.0,yes,LHR to DEL,4,Business Class,Family Leisure,4,
+1188,B767 / A380,5,November 2015,5.0,5,5.0,yes,MAD to LAX via LHR,4,Business Class,Business,4,
+1189,Boeing 777,3,December 2015,1.0,1,1.0,no,CPH to ORD via LHR,2,Business Class,Couple Leisure,1,1.0
+1190,Boeing 777,5,December 2015,5.0,4,4.0,yes,JED to LHR,4,Economy Class,Solo Leisure,5,
+1191,A320,1,December 2015,3.0,3,1.0,no,LIS to LHR,3,Economy Class,Couple Leisure,3,
+1192,Boeing 747-400,4,December 2015,3.0,3,1.0,no,LHR to YVR,4,Business Class,Solo Leisure,2,
+1193,,3,December 2015,3.0,2,1.0,no,CPT to GVA via LHR,1,Premium Economy,Family Leisure,2,1.0
+1194,Boeing 747-400,4,December 2015,3.0,1,2.0,no,London to Vancouver,2,Economy Class,Business,2,
+1195,Boeing 747-400,1,December 2015,2.0,3,1.0,no,LHR to BOM,1,Economy Class,Family Leisure,1,
+1196,Boeing 777-200,5,December 2015,5.0,4,4.0,yes,LGW to MCO,5,Business Class,Couple Leisure,5,
+1197,,4,September 2015,3.0,2,1.0,no,LHR to BKK,1,Economy Class,Couple Leisure,1,1.0
+1198,Boeing 747-400,5,December 2015,5.0,5,3.0,yes,GRU to LHR,5,Business Class,Couple Leisure,5,
+1199,Boeing 777-300,1,December 2015,3.0,4,4.0,yes,Madrid to Sydney via LHR,4,Economy Class,Solo Leisure,4,
+1200,A380,4,October 2015,3.0,2,2.0,no,Heathrow to Johannesburg,2,Business Class,Couple Leisure,3,
+1201,A380,3,December 2015,2.0,3,2.0,no,London to Los Angeles,3,Business Class,Solo Leisure,1,
+1202,Boeing 777,2,November 2015,2.0,2,1.0,no,GIG to LHR,3,Premium Economy,Couple Leisure,1,
+1203,Boeing 747,5,December 2015,5.0,5,5.0,yes,LHR to YVR,5,Business Class,Couple Leisure,5,5.0
+1204,Boeing 777-200,5,December 2015,5.0,5,4.0,yes,MAN to JFK via LHR,4,Business Class,Couple Leisure,5,
+1205,Boeing 777,3,November 2015,2.0,1,3.0,no,LHR to AUS,3,Premium Economy,Business,1,1.0
+1206,Boeing 777,1,December 2015,1.0,3,1.0,no,Punta Cana to London,3,Economy Class,Couple Leisure,2,1.0
+1207,Boeing 777-300,5,December 2015,5.0,5,5.0,yes,LHR to SIN,5,Economy Class,Couple Leisure,5,
+1208,Boeing 777,3,November 2015,3.0,2,4.0,yes,SEA to LHR,4,Premium Economy,Solo Leisure,4,
+1209,Boeing 747,3,December 2015,5.0,5,2.0,yes,LHR to SEA,2,Economy Class,Solo Leisure,3,
+1210,Boeing 777,5,December 2015,5.0,5,4.0,yes,BKK to LHR,5,Business Class,Couple Leisure,5,
+1211,Boeing 777-200,5,December 2015,5.0,5,4.0,yes,London Gatwick to Punta Cana,5,Business Class,Couple Leisure,5,
+1212,Boeing 777-200,4,December 2015,4.0,4,4.0,yes,LGW to TPA,3,Economy Class,Solo Leisure,4,
+1213,Boeing 747-400,5,December 2015,5.0,5,4.0,yes,Heathrow to Cape Town,4,Economy Class,Solo Leisure,4,
+1214,Boeing 777,4,December 2015,3.0,4,3.0,yes,Gatwick to Las Vegas,4,Premium Economy,Couple Leisure,3,1.0
+1215,Boeing 777 / A319,4,November 2015,2.0,4,2.0,yes,HND to BRU via LHR,3,First Class,Solo Leisure,3,
+1216,Boeing 747-400,5,November 2015,2.0,1,1.0,no,LAS to LHR,3,First Class,Business,1,
+1217,Boeing 777,4,November 2015,3.0,3,2.0,yes,Tampa to Gatwick,4,Business Class,Couple Leisure,4,
+1218,Boeing 747-400,3,November 2015,3.0,3,2.0,yes,LHR to MIA,4,Premium Economy,Couple Leisure,3,
+1219,Boeing 747-400,3,November 2015,3.0,4,4.0,yes,JFK to LHR,2,Economy Class,Couple Leisure,3,
+1220,Boeing 777,3,October 2015,1.0,1,1.0,no,YUL to FCO via LHR,4,Economy Class,Couple Leisure,1,
+1221,Boeing 777-200,2,November 2015,2.0,3,2.0,no,LHR to KUL,3,Premium Economy,Couple Leisure,3,
+1222,Boeing 777,4,November 2015,4.0,3,4.0,yes,IAD to DXB via LHR,1,Economy Class,Family Leisure,4,
+1223,Boeing 747-400,5,November 2015,5.0,5,4.0,yes,EDI to LAS via LHR,3,Economy Class,Solo Leisure,5,
+1224,,2,November 2015,1.0,3,2.0,no,London to Barbados,2,Economy Class,Couple Leisure,2,1.0
+1225,Boeing 777-200,1,October 2015,3.0,2,1.0,no,GLA to BKK via LHR,2,Premium Economy,Couple Leisure,2,1.0
+1226,Boeing 777-300ER,1,January 2015,1.0,4,2.0,yes,MAN to BOM via LHR,3,Economy Class,Business,4,
+1227,Boeing 777,2,November 2015,2.0,3,,no,Bangkok to London,4,Business Class,Couple Leisure,2,1.0
+1228,A380,5,November 2015,5.0,5,5.0,yes,Heathrow to Singapore,5,First Class,Couple Leisure,5,
+1229,A380,5,November 2015,4.0,4,5.0,yes,BSL to JNB via LHR,4,Premium Economy,Solo Leisure,4,
+1230,Boeing 747-400,4,August 2015,5.0,2,5.0,yes,London to Vancouver,3,Economy Class,Solo Leisure,3,1.0
+1231,A380 / Boeing 747-400,5,November 2015,5.0,3,4.0,yes,LHR to SFO,4,Premium Economy,Couple Leisure,5,
+1232,Boeing 747-400,2,November 2015,1.0,3,1.0,no,LHR to GRU,1,Business Class,Business,1,
+1233,Boeing 777,3,November 2015,3.0,3,2.0,yes,LGW to Grenada,3,Premium Economy,Couple Leisure,3,2.0
+1234,Boeing 777,4,November 2015,3.0,3,2.0,yes,Tampa to Gatwick,4,Business Class,Couple Leisure,4,
+1235,Boeing 747-400,3,November 2015,3.0,3,2.0,yes,LHR to MIA,4,Premium Economy,Couple Leisure,3,
+1236,Boeing 777,4,November 2015,3.0,4,3.0,yes,LHR to DXB,2,Business Class,Solo Leisure,4,
+1237,Boeing 777,5,November 2015,3.0,5,4.0,yes,Heathrow to Houston,5,First Class,Solo Leisure,4,
+1238,Boeing 777-300,5,October 2015,4.0,4,4.0,yes,Sydney to Singapore,4,Premium Economy,Business,4,
+1239,Boeing 747-400,2,November 2015,2.0,4,1.0,no,CPT to LHR,5,First Class,Couple Leisure,3,
+1240,Boeing 777-200,3,November 2015,2.0,5,4.0,no,LHR to LAX,3,Business Class,Couple Leisure,3,
+1241,Boeing 777-300,1,November 2015,3.0,3,1.0,no,LHR to EZE,1,Business Class,Business,3,1.0
+1242,,2,November 2015,3.0,3,3.0,yes,Mauritius to London,2,Economy Class,Couple Leisure,3,2.0
+1243,Boeing 777,5,October 2015,2.0,1,3.0,no,Gatwick to Orlando,3,Economy Class,Family Leisure,3,1.0
+1244,Boeing 777,4,November 2015,3.0,4,3.0,no,London to Luanda,1,Business Class,Couple Leisure,3,
+1245,Boeing 747-400,2,November 2015,1.0,2,1.0,no,Denver to Heathrow,4,Economy Class,Family Leisure,2,
+1246,Boeing 777-200,2,November 2015,2.0,4,1.0,no,BKK to LHR,1,Business Class,Business,3,
+1247,Boeing 777-300,5,November 2015,4.0,5,4.0,yes,London to Sydney,4,First Class,Couple Leisure,5,
+1248,Boeing 747-400,5,October 2015,4.0,4,4.0,yes,LHR to CPT,5,First Class,Couple Leisure,4,
+1249,Boeing 777,4,October 2015,2.0,5,3.0,no,London to Kuala Lumpur,4,Business Class,Couple Leisure,3,
+1250,Boeing 747-400,3,November 2015,2.0,4,2.0,yes,NCE to LAS via LHR,4,Premium Economy,Business,4,
+1251,Boeing 777,5,May 2015,4.0,4,4.0,yes,Singapore to Sydney,4,First Class,Solo Leisure,5,
+1252,,1,October 2015,1.0,2,3.0,no,London to Delhi,3,Economy Class,Solo Leisure,2,2.0
+1253,A320,3,November 2015,1.0,1,1.0,no,Istanbul to London,1,Business Class,Business,1,
+1254,A319 / Boeing 777-300,5,October 2015,5.0,2,5.0,yes,GVA to PEK via LHR,4,Economy Class,Solo Leisure,5,
+1255,Boeing 777,5,November 2015,4.0,5,4.0,yes,LHR to NBO,5,Business Class,Couple Leisure,5,
+1256,Boeing 777,2,October 2015,3.0,3,2.0,no,SEA to AUH via LHR,3,First Class,Business,3,
+1257,Boeing 747-400,5,October 2015,4.0,4,3.0,yes,Heathrow to Las Vegas,3,Economy Class,Family Leisure,3,1.0
+1258,Boeing 777,1,November 2015,1.0,1,3.0,no,SIN to LHR,3,Business Class,Business,3,1.0
+1259,A380,5,October 2015,3.0,2,4.0,no,MIA to LHR,4,Business Class,Couple Leisure,3,1.0
+1260,Boeing 747-400,3,September 2015,3.0,5,2.0,yes,SFO to LHR,3,Economy Class,Solo Leisure,5,
+1261,Boeing 777-200,2,October 2015,3.0,2,1.0,no,London Heathrow to Bangkok,2,Premium Economy,Couple Leisure,1,2.0
+1262,A380,4,October 2015,4.0,4,4.0,yes,SFO to LHR,4,Premium Economy,Solo Leisure,4,
+1263,Boeing 787-800,1,March 2015,2.0,2,4.0,yes,LHR to Chengdu,4,Business Class,Solo Leisure,3,
+1264,Boeing 777-300ER,3,January 2015,2.0,4,3.0,yes,Tokyo Narita to LHR,4,Business Class,Business,4,
+1265,Boeing 777-300ER,5,January 2015,5.0,4,5.0,yes,LHR to Tokyo Narita,5,First Class,Business,5,
+1266,Boeing 747- 400,4,October 2015,3.0,1,2.0,no,MAN to LAS via LHR,1,Economy Class,Couple Leisure,2,
+1267,Boeing 777,3,October 2015,4.0,3,3.0,yes,Heathrow (London) to JFK (New York City),4,Premium Economy,Solo Leisure,4,
+1268,A380,4,September 2015,4.0,5,4.0,yes,LHR to SFO,5,Economy Class,Solo Leisure,4,
+1269,Boeing 787,5,October 2015,5.0,4,5.0,yes,London to Chennai,5,Economy Class,Couple Leisure,5,5.0
+1270,Boeing 747-400,5,October 2015,4.0,3,3.0,yes,London to Phoenix,4,Premium Economy,Business,4,
+1271,Boeing 747-400,4,October 2015,2.0,2,2.0,no,SFO to LHR,2,Premium Economy,Couple Leisure,1,
+1272,Boeing 777,1,October 2015,2.0,4,2.0,no,Orlando to London,2,Economy Class,Couple Leisure,3,
+1273,B0eing 747-400,2,October 2015,3.0,4,2.0,no,London to Cape Town,1,Economy Class,Business,1,
+1274,Boeing 777-200,5,October 2015,4.0,2,2.0,no,Heathrow to Haneda,2,Business Class,Business,3,
+1275,A320,4,October 2015,2.0,4,2.0,no,LHR to AMS,3,Business Class,Solo Leisure,2,
+1276,Boeing 777,4,October 2015,4.0,3,4.0,yes,LHR to SYD via SIN,4,Premium Economy,Couple Leisure,4,
+1277,,4,September 2015,2.0,2,2.0,no,LHR to BKK,2,Premium Economy,Solo Leisure,1,2.0
+1278,Boeing 777-200,4,October 2015,3.0,4,4.0,no,SYD to LHR via SIN,1,Business Class,Couple Leisure,2,
+1279,A380,5,October 2015,4.0,4,5.0,yes,LHR to JNB,5,Premium Economy,Couple Leisure,3,
+1280,A380 / Boeing 777,2,October 2015,2.0,1,2.0,no,LHR to SYD via SIN,4,Business Class,Family Leisure,1,
+1281,Boeing 777-200,2,October 2015,1.0,4,2.0,no,Antigua to Gatwick,1,Economy Class,Business,2,
+1282,A380,5,October 2015,5.0,4,4.0,yes,London to Los Angeles,4,Business Class,Couple Leisure,4,
+1283,Boeing 747-400,2,October 2015,2.0,1,1.0,no,LHR to SIN,3,Business Class,Business,1,
+1284,Boeing 777,5,October 2015,3.0,4,4.0,yes,SAN to LHR,4,Business Class,Couple Leisure,4,
+1285,Boeing 777-200,3,October 2015,3.0,3,4.0,yes,Gatwick to Las Vegas,4,Premium Economy,Family Leisure,3,
+1286,Boeing 747,1,September 2015,2.0,4,1.0,no,Vancouver to London,3,Premium Economy,Business,2,
+1287,Boeing 777,2,September 2015,1.0,2,2.0,no,LHR to SAN,4,Business Class,Solo Leisure,1,
+1288,Boeing 777-200,3,October 2015,4.0,1,2.0,no,TLV to SAN via LHR,3,Economy Class,Couple Leisure,1,
+1289,Boeing 777-200,3,October 2015,1.0,3,2.0,no,Heathrow to Bahrain,2,Economy Class,Business,3,2.0
+1290,A380,4,August 2015,4.0,4,4.0,yes,LHR to SIN,4,Business Class,Business,5,
+1291,Boeing 777-200,4,August 2015,3.0,5,3.0,yes,LHR to KUL,2,Economy Class,Family Leisure,4,
+1292,Boeing 777-200,4,April 2015,3.0,3,3.0,yes,London to Bangkok,4,Economy Class,Solo Leisure,3,
+1293,Boeing 777-200,4,October 2015,4.0,4,2.0,yes,GLA to BKK via LHR,3,Premium Economy,Couple Leisure,3,1.0
+1294,Boeing 747-400,2,October 2015,2.0,3,2.0,yes,DUB to LAS via LHR,1,Economy Class,Couple Leisure,3,
+1295,Boeing 747,4,April 2015,1.0,3,1.0,no,Jersey to MIA via London,1,Economy Class,Family Leisure,3,
+1296,,4,September 2015,4.0,1,4.0,no,YYZ to FCO via LHR,4,Economy Class,Couple Leisure,2,4.0
+1297,Boeing 777-300,4,September 2015,5.0,5,5.0,yes,LHR to SYD via SIN,5,First Class,Business,5,
+1298,Boeing 777-300,4,September 2015,4.0,3,3.0,no,DFW to LHR,3,Premium Economy,Couple Leisure,2,3.0
+1299,Boeing 747-400,4,October 2015,4.0,5,4.0,yes,Cape Town to London,4,Economy Class,Couple Leisure,4,
+1300,A380,3,September 2015,4.0,4,4.0,yes,HKG to LHR,3,Business Class,Business,3,
+1301,A320 / Boeing 787,3,September 2015,5.0,3,5.0,no,DUS to PHL via LHR,5,Premium Economy,Business,4,
+1302,Boeing 747-400,5,September 2015,5.0,4,2.0,yes,LAS to LHR,3,Business Class,Solo Leisure,3,
+1303,Boeing 747-400,3,September 2015,3.0,1,1.0,no,LHR to SFO,1,Economy Class,Business,1,
+1304,,2,December 2014,1.0,4,1.0,yes,LHR to Chicago O'Hare,4,Business Class,Family Leisure,4,2.0
+1305,Boeing 747-400,4,September 2015,1.0,3,2.0,no,Phoenix to Heathrow,1,Economy Class,Solo Leisure,2,
+1306,Boeing 747-400,3,September 2015,1.0,1,2.0,no,London to Johannesburg,1,Economy Class,Couple Leisure,1,
+1307,Boeing 747-400,2,September 2015,1.0,2,1.0,no,Phoenix to Heathrow,1,Economy Class,Family Leisure,1,2.0
+1308,Boeing 747-400,3,September 2015,5.0,4,3.0,yes,LHR to DXB,4,Business Class,Business,3,
+1309,Boeing 777,4,May 2015,4.0,4,4.0,yes,SYD to SIN,4,Business Class,Couple Leisure,5,
+1310,Boeing 777,2,September 2015,1.0,3,2.0,no,HND to LHR,2,Business Class,Business,2,
+1311,Boeing 747-400,4,September 2015,3.0,4,1.0,no,Vancouver to London,3,Business Class,Solo Leisure,2,
+1312,Boeing 777,5,September 2015,5.0,5,5.0,yes,LHR to IAD,5,Premium Economy,Solo Leisure,5,
+1313,,2,September 2015,1.0,2,3.0,no,London Gatwick to Cancun,3,Economy Class,Couple Leisure,2,2.0
+1314,Boeing 767,4,September 2015,2.0,1,1.0,no,LCA to LHR,1,Economy Class,Couple Leisure,2,
+1315,Boeing 747-400,5,September 2015,5.0,4,4.0,yes,LHR to MIA,3,Economy Class,Couple Leisure,4,
+1316,A318,5,September 2015,5.0,5,3.0,yes,LCY to JFK via SNN,5,Business Class,Business,4,
+1317,Boeing 737,5,September 2015,2.0,3,1.0,no,Gatwick to Naples,1,Business Class,Business,1,
+1318,Boeing 747-400,5,September 2015,2.0,2,1.0,no,Boston to London,2,First Class,Couple Leisure,1,1.0
+1319,Boeing 777-200ER,5,September 2015,5.0,5,5.0,yes,St Lucia to LGW,5,Business Class,Solo Leisure,4,
+1320,Boeing 747-400,5,September 2015,3.0,4,2.0,no,LHR to PHX,4,Premium Economy,Couple Leisure,5,
+1321,,1,September 2015,1.0,1,1.0,no,Gatwick to Barcelona,1,Economy Class,Couple Leisure,1,1.0
+1322,Boeing 747-400,2,July 2015,1.0,3,1.0,no,Heathrow to Vancouver,2,Economy Class,Couple Leisure,3,
+1323,Boeing 747-400,3,September 2015,2.0,3,1.0,no,Glasgow to Cape Town via LHR,1,Economy Class,Couple Leisure,3,
+1324,Boeing 747 / 777 / A380,2,September 2015,1.0,3,1.0,no,DXB to IAD via LHR,1,Business Class,Solo Leisure,2,1.0
+1325,Boeing 777,5,September 2015,5.0,4,3.0,yes,YYZ to LHR,3,Premium Economy,Solo Leisure,5,
+1326,Boeing 747-400,5,September 2015,5.0,5,3.0,yes,LHR to MIA,5,Premium Economy,Solo Leisure,5,
+1327,Boeing 777-200,4,September 2015,2.0,3,2.0,no,Gatwick to Mauritius,1,Economy Class,Couple Leisure,2,
+1328,Boeing 777-200,4,August 2015,3.0,3,3.0,yes,Moscow to Heathrow,3,Economy Class,Couple Leisure,3,
+1329,A380,4,September 2015,4.0,4,4.0,yes,Los Angeles to London,3,Business Class,Couple Leisure,3,
+1330,Boeing 777,1,April 2015,1.0,1,1.0,no,LHR to BKK,1,Economy Class,Solo Leisure,1,1.0
+1331,Boeing 777,2,March 2015,1.0,1,2.0,no,London to Tokyo,4,First Class,Couple Leisure,1,
+1332,Boeing 777-300,1,September 2015,3.0,1,2.0,no,GIG to LHR,1,Economy Class,Family Leisure,1,1.0
+1333,Boeing 777-200,3,August 2015,4.0,4,1.0,no,Heathrow to Bangkok,2,Economy Class,Couple Leisure,3,
+1334,Boeing 747-400,1,August 2015,1.0,3,2.0,no,Las Vegas to London Heathrow,1,Economy Class,Family Leisure,1,
+1335,A320,3,September 2015,2.0,2,2.0,no,Athens to London,1,Business Class,Business,1,
+1336,Boeing 777,1,September 2015,1.0,1,1.0,no,JFK to Manchester via LHR,1,Economy Class,Solo Leisure,2,
+1337,Boeing 777,5,September 2015,4.0,4,3.0,no,Dubai to LHR,3,First Class,Business,3,3.0
+1338,Boeing 747-400,1,August 2015,1.0,1,1.0,no,LHR to PEK,1,Business Class,Business,1,
+1339,Boeing 747-400,3,September 2015,2.0,3,2.0,no,London to New York JFK,2,Business Class,Business,2,
+1340,Boeing 777-200,4,August 2015,4.0,4,4.0,no,Glasgow to New York via LHR,3,Business Class,Couple Leisure,2,
+1341,A380,4,August 2015,5.0,4,3.0,yes,Heathrow to Johannesburg,5,Business Class,Couple Leisure,3,5.0
+1342,Boeing 747-400,5,August 2015,4.0,2,3.0,no,London to Dubai,1,First Class,Business,2,2.0
+1343,A321,4,August 2015,3.0,3,1.0,yes,London to Brussels,2,Business Class,Business,3,1.0
+1344,Boeing 747-400,1,August 2015,1.0,1,1.0,no,Denver to London,1,Economy Class,Family Leisure,1,
+1345,Boeing 747-400,2,September 2015,,3,1.0,no,LHR to JFK,1,Economy Class,Family Leisure,2,1.0
+1346,Boeing 767,5,August 2015,2.0,4,2.0,yes,Calgary to London,5,Economy Class,Couple Leisure,4,
+1347,A320,5,August 2015,5.0,5,4.0,yes,MXP to LHR,5,Economy Class,Solo Leisure,5,
+1348,Boeing 777,2,July 2015,2.0,3,2.0,no,Toronto to London Heathrow,3,Business Class,Couple Leisure,2,2.0
+1349,,5,August 2015,4.0,1,1.0,no,Miami to London Heathrow,4,Economy Class,Family Leisure,2,1.0
+1350,A319,4,June 2015,3.0,3,,no,London to Geneva,2,Economy Class,Business,3,3.0
+1351,Boeing 747-400,2,August 2015,1.0,3,1.0,no,LHR to PHX,1,Economy Class,Business,1,
+1352,Boeing 747,4,August 2015,1.0,1,1.0,no,Manchester to Boston via Heathrow,1,Economy Class,Family Leisure,1,
+1353,A319,2,August 2015,2.0,1,,no,Heathrow to Aberdeen,2,Economy Class,Business,1,1.0
+1354,Boeing 777-300,2,August 2015,2.0,2,1.0,no,London to Kuala lumpur,3,Business Class,Couple Leisure,3,
+1355,,4,August 2015,3.0,4,3.0,yes,London to Berlin,3,Business Class,Solo Leisure,2,1.0
+1356,,2,August 2015,2.0,1,1.0,no,London to Copenhagen,2,Economy Class,Couple Leisure,1,1.0
+1357,A380,5,August 2015,4.0,3,4.0,yes,LHR to IAD,4,First Class,Business,5,
+1358,Boeing 777-236,4,August 2015,2.0,1,3.0,yes,DOH to LHR via BAH,4,Business Class,Business,3,
+1359,Boeing 747-400,4,August 2015,4.0,5,4.0,yes,LHR to CPT,3,Economy Class,Family Leisure,4,
+1360,A380,1,August 2015,1.0,3,4.0,no,SFO to LHR,2,Economy Class,Family Leisure,1,
+1361,Boeing 777 / A320,5,July 2015,5.0,5,5.0,yes,MIA to BRU via LHR,4,Business Class,Couple Leisure,5,5.0
+1362,,3,May 2015,3.0,1,3.0,no,Gatwick to Bridgetown,3,Economy Class,Business,2,3.0
+1363,Boeing 777,3,July 2015,1.0,1,2.0,no,PHL to TXL via LHR,2,First Class,Couple Leisure,1,
+1364,Boeing 747,3,August 2015,3.0,1,1.0,no,Hyderabad to Phoenix via LHR,1,Economy Class,Family Leisure,1,
+1365,Boeing 777,5,August 2015,3.0,3,3.0,yes,Washington Dulles to Heathrow,3,Business Class,Couple Leisure,3,
+1366,Boeing 767,3,August 2015,2.0,3,3.0,no,London to Nassau,1,Business Class,Couple Leisure,1,
+1367,,5,August 2015,4.0,5,1.0,yes,Dublin to Vancouver via London Heathrow,5,Economy Class,Couple Leisure,4,1.0
+1368,Boeing 747,5,July 2015,5.0,5,5.0,yes,LHR to LAS,5,Business Class,Family Leisure,5,
+1369,Boeing 747-400,5,April 2015,5.0,5,5.0,yes,Boston to London,5,Economy Class,Family Leisure,4,
+1370,Boeing 777,4,July 2015,2.0,3,3.0,no,London to Sydney via Singapore,1,Business Class,Solo Leisure,2,
+1371,Boeing 767,5,August 2015,5.0,5,4.0,yes,LHR to IST,4,Business Class,Couple Leisure,5,
+1372,A319/A321,3,July 2015,2.0,2,2.0,yes,GLA to DME via LGW / LHR,4,Economy Class,Solo Leisure,5,
+1373,Boeing 747-400 / A321,3,August 2015,5.0,3,3.0,yes,DME to GLA via LHR,4,Economy Class,Solo Leisure,5,
+1374,,2,August 2015,4.0,2,4.0,no,London to Orlando via Miami,3,Economy Class,Family Leisure,3,2.0
+1375,Boeing 747-400,2,August 2015,2.0,2,3.0,no,Beijing to London Heathrow,2,Business Class,Business,1,
+1376,Boeing 767,4,August 2015,4.0,4,2.0,yes,London to Larnaca,4,Economy Class,Solo Leisure,3,
+1377,A319,5,August 2015,4.0,4,3.0,yes,Dublin to LHR,4,Economy Class,Solo Leisure,4,
+1378,Boeing 777,1,August 2015,1.0,1,2.0,no,Sydney to Lisbon via LHR,1,Economy Class,Couple Leisure,1,
+1379,Boeing 747-400,2,July 2015,2.0,2,1.0,no,LHR to DXB,1,Economy Class,Business,1,
+1380,Boeing 747 400,3,June 2015,2.0,3,3.0,yes,Cape Town to London,2,Economy Class,Couple Leisure,3,
+1381,Boeing 747 400,4,July 2015,3.0,3,2.0,yes,London to Cape Town,2,Economy Class,Couple Leisure,3,
+1382,Boeing 777,2,August 2015,1.0,2,1.0,no,Washington Dulles to LHR,1,Economy Class,Family Leisure,1,
+1383,A319,3,June 2015,2.0,3,1.0,no,LHR to ZRH,1,Business Class,Solo Leisure,1,
+1384,Boeing 777,1,July 2015,1.0,2,3.0,no,Tokyo Narita to London,2,Business Class,Business,2,
+1385,,5,July 2015,3.0,4,3.0,no,Manchester to San Fran via London,3,Premium Economy,Family Leisure,1,3.0
+1386,,5,July 2015,4.0,5,4.0,no,Los Angeles to Milan via LHR,2,Premium Economy,Couple Leisure,3,4.0
+1387,Boeing 777-300,4,July 2015,4.0,2,3.0,no,London to Sydney via Singapore,1,Economy Class,Couple Leisure,1,1.0
+1388,Boeing 747-400,1,July 2015,2.0,5,2.0,no,Cape Town to London,2,Business Class,Business,1,
+1389,Boeing 747 and A320,3,July 2015,3.0,4,4.0,yes,San Francisco to Zurich via LHR,4,Economy Class,Family Leisure,4,1.0
+1390,Boeing 747-400,1,June 2015,3.0,2,1.0,no,Vancouver to Heathrow,4,First Class,Solo Leisure,1,
+1391,Boeing 747,3,July 2015,2.0,1,1.0,no,New York to Dublin via Heathrow,2,First Class,Business,1,
+1392,Boeing 777,2,July 2015,4.0,3,4.0,no,London Heathrow to Tokyo,1,Business Class,Business,4,
+1393,Boeing 767,5,July 2015,5.0,5,3.0,yes,Istambul to London Heathrow,5,Business Class,Business,5,
+1394,Boeing 767,5,July 2015,5.0,5,3.0,yes,London Heathrow to Istanbul,5,Business Class,Business,5,
+1395,A318,1,July 2015,2.0,2,1.0,no,London to Faro,1,Business Class,Business,1,1.0
+1396,Boeing 777,5,May 2015,4.0,5,4.0,yes,Orlando to London,5,Business Class,Couple Leisure,5,
+1397,Boeing 777-200,1,July 2015,1.0,3,5.0,no,LHR-BOM,4,Economy Class,Couple Leisure,3,
+1398,Boeing 777-300,3,July 2015,3.0,4,4.0,no,London to Singapire,2,Economy Class,Solo Leisure,4,
+1399,Boeing 777-200,4,July 2015,4.0,4,3.0,yes,London to Kuala Lumpur,4,Economy Class,Family Leisure,4,
+1400,Boeing 777-200,2,July 2015,3.0,3,4.0,yes,ATL to LHR,4,Economy Class,Solo Leisure,3,
+1401,Boeing 767/Airbus A320,2,July 2015,4.0,3,3.0,yes,London Heathrow to Athens,4,Premium Economy,Solo Leisure,3,
+1402,Boeing 777,5,May 2015,4.0,5,4.0,yes,Orlando to London,5,Business Class,Couple Leisure,5,
+1403,Boeing 777,1,July 2015,1.0,3,2.0,no,Singapore to Sydney,2,Business Class,Business,2,
+1404,Boeing 777-200,5,July 2015,3.0,4,4.0,yes,LHR to KUL,4,Business Class,Couple Leisure,5,
+1405,Boeing 747-400,2,July 2015,3.0,1,1.0,no,London Heathrow to Bangkok,1,Economy Class,Solo Leisure,1,
+1406,Boeing 747-400,5,June 2015,5.0,5,3.0,yes,London Heathrow to Chicago O'Hare,5,Business Class,Solo Leisure,5,
+1407,Boeing 747-400,5,July 2015,5.0,5,3.0,yes,ORD to LHR,5,First Class,Solo Leisure,5,
+1408,Boeing 747,3,July 2015,1.0,3,1.0,no,Vancouver Canada to London,2,Business Class,Solo Leisure,2,
+1409,A321 / Boeing 747-400,5,September 2014,3.0,5,4.0,no,CAI to JFK via LHR,1,Economy Class,Solo Leisure,2,
+1410,Boeing 747- 400,5,June 2015,4.0,4,3.0,yes,LHR to JNB,3,Economy Class,Family Leisure,5,
+1411,A320,5,December 2014,5.0,5,4.0,yes,Tel Aviv to London LHR,5,Business Class,Solo Leisure,4,
+1412,A380,5,May 2015,4.0,5,5.0,yes,LHR to LAX,4,Economy Class,Couple Leisure,3,5.0
+1413,Boeing 747-400,5,July 2015,4.0,1,1.0,no,London to Singapore,1,Business Class,Business,3,
+1414,A321,5,May 2015,4.0,4,1.0,yes,LHR to Hamburg,5,Economy Class,Family Leisure,5,
+1415,Boeing 747-400,5,May 2015,4.0,3,5.0,yes,Chicago to Paris via London,4,Premium Economy,Couple Leisure,4,4.0
+1416,Boeing 767,4,July 2015,1.0,3,1.0,no,Istanbul to London,1,Business Class,Business,1,
+1417,Boeing 777,4,July 2015,3.0,4,2.0,no,Bangkok to London,2,Business Class,Business,3,
+1418,Boeing 777,2,June 2015,2.0,2,3.0,no,Sydney to Singapore,2,Business Class,Business,2,
+1419,A318,5,August 2014,5.0,5,5.0,yes,LCY to JFK via Shannon,5,Business Class,Solo Leisure,3,5.0
+1420,Boeing 777,2,June 2015,1.0,1,1.0,no,Gatwick to Orlando,1,Economy Class,Family Leisure,2,1.0
+1421,B777-300 / A319,2,June 2015,1.0,1,3.0,no,Chicago to Berlin via London Heathrow,1,Economy Class,Solo Leisure,1,
+1422,A380,5,June 2015,3.0,4,5.0,yes,London to Los Angesles,4,Economy Class,Solo Leisure,5,4.0
+1423,Boeing 777-200,4,October 2014,3.0,4,3.0,yes,YUL to FCO via LHR,4,Economy Class,Family Leisure,5,
+1424,,2,June 2015,2.0,3,3.0,no,Washington DC to Heathrow,3,Premium Economy,Couple Leisure,1,3.0
+1425,A320 / Boeing 777-300,3,June 2015,2.0,1,3.0,no,Berlin to Chicago via LHR,1,Economy Class,Solo Leisure,1,
+1426,Boeing 767,5,June 2015,2.0,2,2.0,no,LHR to Grand Cayman via Nassau,2,Business Class,Couple Leisure,2,
+1427,Airbus A380,2,May 2015,2.0,3,4.0,no,London to Johannesburg,3,Business Class,Couple Leisure,2,
+1428,A320,5,May 2015,4.0,4,4.0,yes,Geneva to London,2,Business Class,Business,4,
+1429,B747-400 / A319,4,April 2015,3.0,4,3.0,no,Vancouver to Berlin via London,1,Economy Class,Solo Leisure,2,
+1430,B747 400,5,June 2015,5.0,5,4.0,yes,LHR to MIA,4,First Class,Solo Leisure,5,
+1431,777-200,1,May 2015,1.0,1,1.0,no,Bangkok to Heathrow,1,Economy Class,Couple Leisure,1,
+1432,777,5,July 2014,4.0,4,5.0,yes,Buenos Aires to Heathrow,5,Business Class,Business,3,
+1433,A320,5,June 2015,4.0,4,,yes,LHR to Milan Malpensa,4,Economy Class,Solo Leisure,4,4.0
+1434,boeing 787,3,June 2015,3.0,3,4.0,yes,Seoul to London,4,Business Class,Solo Leisure,3,
+1435,B747-400,4,May 2015,4.0,4,4.0,yes,LHR to YYZ,3,Economy Class,Solo Leisure,4,
+1436,A321,3,May 2015,2.0,3,1.0,no,LHR to SOF,1,Business Class,Business,1,1.0
